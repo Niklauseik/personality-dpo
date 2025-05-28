@@ -8,6 +8,7 @@ __pycache__/
 id_rsa
 id_rsa.pub
 .ssh/
+bfg.jar
 
 # 忽略训练产生的大模型文件夹（如原始预训练模型）
 llama-3B-Instruct/
