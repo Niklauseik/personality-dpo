@@ -7,5 +7,6 @@ __pycache__/
 # 忽略训练产生的大模型文件夹（如原始预训练模型）
 llama-3B-Instruct/
 dpo_outputs/
+upload.sh
 # 如果你不希望上传 token 或 API 配置文件
 *.env
