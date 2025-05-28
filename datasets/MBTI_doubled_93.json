@@ -1,0 +1,2048 @@
+[
+    {
+        "question": "When you're going out all day, you will",
+        "choice_a": {
+            "value": "J",
+            "text": "Plan what you're going to do and when"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Just go"
+        }
+    },
+    {
+        "question": "When you're going out all day, you will",
+        "choice_a": {
+            "value": "P",
+            "text": "Just go"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Plan what you're going to do and when"
+        }
+    },
+    {
+        "question": "You think you're one",
+        "choice_a": {
+            "value": "P",
+            "text": "People who are more spontaneous"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "More organized people"
+        }
+    },
+    {
+        "question": "You think you're one",
+        "choice_a": {
+            "value": "J",
+            "text": "More organized people"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "People who are more spontaneous"
+        }
+    },
+    {
+        "question": "If you were a teacher, you would teach",
+        "choice_a": {
+            "value": "S",
+            "text": "Fact-based courses"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Courses that involve theory"
+        }
+    },
+    {
+        "question": "If you were a teacher, you would teach",
+        "choice_a": {
+            "value": "N",
+            "text": "Courses that involve theory"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Fact-based courses"
+        }
+    },
+    {
+        "question": "You usually",
+        "choice_a": {
+            "value": "E",
+            "text": "It's easy to get along with people"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Relatively quiet or reserved"
+        }
+    },
+    {
+        "question": "You usually",
+        "choice_a": {
+            "value": "I",
+            "text": "Relatively quiet or reserved"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "It's easy to get along with people"
+        }
+    },
+    {
+        "question": "In general, who do you fit in with?",
+        "choice_a": {
+            "value": "N",
+            "text": "Imaginative people"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Realistic people"
+        }
+    },
+    {
+        "question": "In general, who do you fit in with?",
+        "choice_a": {
+            "value": "S",
+            "text": "Realistic people"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Imaginative people"
+        }
+    },
+    {
+        "question": "Do you often make",
+        "choice_a": {
+            "value": "F",
+            "text": "Your emotions dominate your intellect"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Your intellect dominates your emotions"
+        }
+    },
+    {
+        "question": "Do you often make",
+        "choice_a": {
+            "value": "T",
+            "text": "Your intellect dominates your emotions"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Your emotions dominate your intellect"
+        }
+    },
+    {
+        "question": "Handle many things that you will enjoy",
+        "choice_a": {
+            "value": "P",
+            "text": "Do what you want"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Do what you planned"
+        }
+    },
+    {
+        "question": "Handle many things that you will enjoy",
+        "choice_a": {
+            "value": "J",
+            "text": "Do what you planned"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Do what you want"
+        }
+    },
+    {
+        "question": "Do you",
+        "choice_a": {
+            "value": "E",
+            "text": "Easy to understand"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "It's hard to understand"
+        }
+    },
+    {
+        "question": "Do you",
+        "choice_a": {
+            "value": "I",
+            "text": "It's hard to understand"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "Easy to understand"
+        }
+    },
+    {
+        "question": "Follow the schedule",
+        "choice_a": {
+            "value": "J",
+            "text": "To your liking"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "It makes you feel constrained"
+        }
+    },
+    {
+        "question": "Follow the schedule",
+        "choice_a": {
+            "value": "P",
+            "text": "It makes you feel constrained"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "To your liking"
+        }
+    },
+    {
+        "question": "When you have a special task, you will love",
+        "choice_a": {
+            "value": "J",
+            "text": "Organize your plan carefully before you start"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Find out what to do as you go"
+        }
+    },
+    {
+        "question": "When you have a special task, you will love",
+        "choice_a": {
+            "value": "P",
+            "text": "Find out what to do as you go"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Organize your plan carefully before you start"
+        }
+    },
+    {
+        "question": "In most cases, you will choose:",
+        "choice_a": {
+            "value": "P",
+            "text": "Go with the flow"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Do things according to the schedule"
+        }
+    },
+    {
+        "question": "In most cases, you will choose:",
+        "choice_a": {
+            "value": "J",
+            "text": "Do things according to the schedule"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Go with the flow"
+        }
+    },
+    {
+        "question": "Most people will say you're one",
+        "choice_a": {
+            "value": "I",
+            "text": "People who value their privacy"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "Very frank and open people"
+        }
+    },
+    {
+        "question": "Most people will say you're one",
+        "choice_a": {
+            "value": "E",
+            "text": "Very frank and open people"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "People who value their privacy"
+        }
+    },
+    {
+        "question": "You'd rather be considered one",
+        "choice_a": {
+            "value": "S",
+            "text": "People who seek truth from facts"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Clever people"
+        }
+    },
+    {
+        "question": "You'd rather be considered one",
+        "choice_a": {
+            "value": "N",
+            "text": "Clever people"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "People who seek truth from facts"
+        }
+    },
+    {
+        "question": "In a large group of people, usually",
+        "choice_a": {
+            "value": "E",
+            "text": "You introduce everyone to each other"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Someone else introduces you"
+        }
+    },
+    {
+        "question": "In a large group of people, usually",
+        "choice_a": {
+            "value": "I",
+            "text": "Someone else introduces you"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "You introduce everyone to each other"
+        }
+    },
+    {
+        "question": "Who would you be friends with?",
+        "choice_a": {
+            "value": "N",
+            "text": "often come up with new ideas"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Down-to-earth"
+        }
+    },
+    {
+        "question": "Who would you be friends with?",
+        "choice_a": {
+            "value": "S",
+            "text": "Down-to-earth"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "often come up with new ideas"
+        }
+    },
+    {
+        "question": "You incline",
+        "choice_a": {
+            "value": "F",
+            "text": "Emphasis is placed on emotion over logic"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Emphasis on logic over emotion"
+        }
+    },
+    {
+        "question": "You incline",
+        "choice_a": {
+            "value": "T",
+            "text": "Emphasis on logic over emotion"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Emphasis is placed on emotion over logic"
+        }
+    },
+    {
+        "question": "You like it better",
+        "choice_a": {
+            "value": "P",
+            "text": "Sit back and see how things unfold before making a plan"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Plan early"
+        }
+    },
+    {
+        "question": "You like it better",
+        "choice_a": {
+            "value": "J",
+            "text": "Plan early"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Sit back and see how things unfold before making a plan"
+        }
+    },
+    {
+        "question": "You like to spend a lot of time",
+        "choice_a": {
+            "value": "I",
+            "text": "Alone"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "Spend time with others"
+        }
+    },
+    {
+        "question": "You like to spend a lot of time",
+        "choice_a": {
+            "value": "E",
+            "text": "Spend time with others"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Alone"
+        }
+    },
+    {
+        "question": "With a lot of people will be",
+        "choice_a": {
+            "value": "E",
+            "text": "Energizes you"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "It's often exhausting"
+        }
+    },
+    {
+        "question": "With a lot of people will be",
+        "choice_a": {
+            "value": "I",
+            "text": "It's often exhausting"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "Energizes you"
+        }
+    },
+    {
+        "question": "You like it better",
+        "choice_a": {
+            "value": "J",
+            "text": "Arrange appointments, social gatherings, etc. early on"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Uninhibited, do whatever you want to do when it's fun"
+        }
+    },
+    {
+        "question": "You like it better",
+        "choice_a": {
+            "value": "P",
+            "text": "Uninhibited, do whatever you want to do when it's fun"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Arrange appointments, social gatherings, etc. early on"
+        }
+    },
+    {
+        "question": "When planning a trip, you prefer it",
+        "choice_a": {
+            "value": "P",
+            "text": "Most of the time it's about acting on the feeling of the day"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Know beforehand what you'll be doing most of the day"
+        }
+    },
+    {
+        "question": "When planning a trip, you prefer it",
+        "choice_a": {
+            "value": "J",
+            "text": "Know beforehand what you'll be doing most of the day"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Most of the time it's about acting on the feeling of the day"
+        }
+    },
+    {
+        "question": "In social gatherings, you",
+        "choice_a": {
+            "value": "I",
+            "text": "Sometimes I feel depressed"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "Always have fun"
+        }
+    },
+    {
+        "question": "In social gatherings, you",
+        "choice_a": {
+            "value": "E",
+            "text": "Always have fun"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Sometimes I feel depressed"
+        }
+    },
+    {
+        "question": "You usually",
+        "choice_a": {
+            "value": "E",
+            "text": "It's easy to get along with others"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Tend to be in a corner"
+        }
+    },
+    {
+        "question": "You usually",
+        "choice_a": {
+            "value": "I",
+            "text": "Tend to be in a corner"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "It's easy to get along with others"
+        }
+    },
+    {
+        "question": "Who will appeal to you more?",
+        "choice_a": {
+            "value": "N",
+            "text": "A quick thinking and very intelligent person"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "A person who seeks truth from facts and has a wealth of common sense"
+        }
+    },
+    {
+        "question": "Who will appeal to you more?",
+        "choice_a": {
+            "value": "S",
+            "text": "A person who seeks truth from facts and has a wealth of common sense"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "A quick thinking and very intelligent person"
+        }
+    },
+    {
+        "question": "In your day-to-day work, you will:",
+        "choice_a": {
+            "value": "P",
+            "text": "Quite like to deal with bursts that force you to race against the clock"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "It's usually planned in advance so that you don't have to work under pressure"
+        }
+    },
+    {
+        "question": "In your day-to-day work, you will:",
+        "choice_a": {
+            "value": "J",
+            "text": "It's usually planned in advance so that you don't have to work under pressure"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Quite like to deal with bursts that force you to race against the clock"
+        }
+    },
+    {
+        "question": "You think others are average",
+        "choice_a": {
+            "value": "I",
+            "text": "It will take a long time to get to know you"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "It took a short time to get to know you"
+        }
+    },
+    {
+        "question": "You think others are average",
+        "choice_a": {
+            "value": "E",
+            "text": "It took a short time to get to know you"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "It will take a long time to get to know you"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "I",
+            "text": "Focus on privacy"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "Be frank and open"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "E",
+            "text": "Be frank and open"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Focus on privacy"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "J",
+            "text": "Pre-arranged"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Unplanned"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "P",
+            "text": "Unplanned"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Pre-arranged"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "N",
+            "text": "abstract"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Specific"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "S",
+            "text": "Specific"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "abstract"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "F",
+            "text": "gentle"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "firmness"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "T",
+            "text": "firmness"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "gentle"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "T",
+            "text": "ponder"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "feel"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "F",
+            "text": "feel"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "ponder"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "S",
+            "text": "fact"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "thought"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "N",
+            "text": "thought"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "fact"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "P",
+            "text": "impulse"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "decision"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "J",
+            "text": "decision"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "impulse"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "E",
+            "text": "obsession"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Quiet"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "I",
+            "text": "Quiet"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "obsession"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "I",
+            "text": "Quiet"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "extroversion"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "E",
+            "text": "extroversion"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Quiet"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "J",
+            "text": "There is a system"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "random"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "P",
+            "text": "random"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "There is a system"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "N",
+            "text": "theory"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Sure"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "S",
+            "text": "Sure"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "theory"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "F",
+            "text": "susceptible"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "fair"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "T",
+            "text": "fair"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "susceptible"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "T",
+            "text": "Convincing"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Touching"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "F",
+            "text": "Touching"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Convincing"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "S",
+            "text": "statement"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "conception"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "N",
+            "text": "conception"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "statement"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "P",
+            "text": "Unconstrained"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "prearrange"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "J",
+            "text": "prearrange"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Unconstrained"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "I",
+            "text": "reserved"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "talkative"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "E",
+            "text": "talkative"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "reserved"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "J",
+            "text": "methodical"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Informal"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "P",
+            "text": "Informal"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "methodical"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "N",
+            "text": "thought"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Live"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "S",
+            "text": "Live"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "thought"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "F",
+            "text": "Sympathy, mercy"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "visionary"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "T",
+            "text": "visionary"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Sympathy, mercy"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "T",
+            "text": "benefit"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "blessing"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "F",
+            "text": "blessing"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "benefit"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "S",
+            "text": "practical"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Theoretical"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "N",
+            "text": "Theoretical"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "practical"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "I",
+            "text": "Not many friends"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "Lots of friends"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "E",
+            "text": "Lots of friends"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Not many friends"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "J",
+            "text": "There is a system"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "improvisation"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "P",
+            "text": "improvisation"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "There is a system"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "N",
+            "text": "Imaginative enough"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Matter-by-facts"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "S",
+            "text": "Matter-by-facts"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Imaginative enough"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "F",
+            "text": "Kindly"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Objectively"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "T",
+            "text": "Objectively"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Kindly"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "T",
+            "text": "Objectively"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Passionately"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "F",
+            "text": "Passionately"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Objectively"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "S",
+            "text": "build"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "invent"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "N",
+            "text": "invent"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "build"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "I",
+            "text": "Quiet"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "Love to be gregarious"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "E",
+            "text": "Love to be gregarious"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Quiet"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "N",
+            "text": "theory"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "fact"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "S",
+            "text": "fact"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "theory"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "F",
+            "text": "Sympathetic"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Logical"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "T",
+            "text": "Logical"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Sympathetic"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "T",
+            "text": "Analytical"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "sentimentality"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "F",
+            "text": "sentimentality"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Analytical"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "S",
+            "text": "fair and reasonable"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Fascinating"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you? Think carefully about the meaning of these words, and ignore their shapes or pronunciations.",
+        "choice_a": {
+            "value": "N",
+            "text": "Fascinating"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "fair and reasonable"
+        }
+    },
+    {
+        "question": "When you're going to finish a big project in a week, you will at the beginning",
+        "choice_a": {
+            "value": "J",
+            "text": "Make a list of the different tasks to be done in order"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Start now"
+        }
+    },
+    {
+        "question": "When you're going to finish a big project in a week, you will at the beginning",
+        "choice_a": {
+            "value": "P",
+            "text": "Start now"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Make a list of the different tasks to be done in order"
+        }
+    },
+    {
+        "question": "In social situations, you often feel:",
+        "choice_a": {
+            "value": "I",
+            "text": "It's hard to open up a conversation and maintain a conversation with some people"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "You can have a long conversation with most people"
+        }
+    },
+    {
+        "question": "In social situations, you often feel:",
+        "choice_a": {
+            "value": "E",
+            "text": "You can have a long conversation with most people"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "It's hard to open up a conversation and maintain a conversation with some people"
+        }
+    },
+    {
+        "question": "Do what many people do too, and you prefer",
+        "choice_a": {
+            "value": "S",
+            "text": "Follow the generally accepted method"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Conceive an idea of your own"
+        }
+    },
+    {
+        "question": "Do what many people do too, and you prefer",
+        "choice_a": {
+            "value": "N",
+            "text": "Conceive an idea of your own"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Follow the generally accepted method"
+        }
+    },
+    {
+        "question": "Can a friend you just met tell us about your interests?",
+        "choice_a": {
+            "value": "E",
+            "text": "Right away"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Wait until they really get to know you"
+        }
+    },
+    {
+        "question": "Can a friend you just met tell us about your interests?",
+        "choice_a": {
+            "value": "I",
+            "text": "Wait until they really get to know you"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "Right away"
+        }
+    },
+    {
+        "question": "Your usual preferred subjects are:",
+        "choice_a": {
+            "value": "N",
+            "text": "Teach concepts and principles"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Lecture on facts and figures"
+        }
+    },
+    {
+        "question": "Your usual preferred subjects are:",
+        "choice_a": {
+            "value": "S",
+            "text": "Lecture on facts and figures"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Teach concepts and principles"
+        }
+    },
+    {
+        "question": "Which is the higher praise?",
+        "choice_a": {
+            "value": "F",
+            "text": "A person who has always been sensual"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Consistently rational people"
+        }
+    },
+    {
+        "question": "Which is the higher praise?",
+        "choice_a": {
+            "value": "T",
+            "text": "Consistently rational people"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "A person who has always been sensual"
+        }
+    },
+    {
+        "question": "You think you're doing things according to the schedule",
+        "choice_a": {
+            "value": "P",
+            "text": "Sometimes it is needed, but generally you don't like it"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Most of the time it's helpful and it's something you love to do"
+        }
+    },
+    {
+        "question": "You think you're doing things according to the schedule",
+        "choice_a": {
+            "value": "J",
+            "text": "Most of the time it's helpful and it's something you love to do"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Sometimes it is needed, but generally you don't like it"
+        }
+    },
+    {
+        "question": "With a group of people, you usually choose",
+        "choice_a": {
+            "value": "I",
+            "text": "Talk to someone you know well"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "Participate in the conversation"
+        }
+    },
+    {
+        "question": "With a group of people, you usually choose",
+        "choice_a": {
+            "value": "E",
+            "text": "Participate in the conversation"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Talk to someone you know well"
+        }
+    },
+    {
+        "question": "At social gatherings, you will:",
+        "choice_a": {
+            "value": "E",
+            "text": "It's the one that talks a lot"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Let others talk more"
+        }
+    },
+    {
+        "question": "At social gatherings, you will:",
+        "choice_a": {
+            "value": "I",
+            "text": "Let others talk more"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "It's the one that talks a lot"
+        }
+    },
+    {
+        "question": "Make a list of things to do over the weekend, and the idea will be",
+        "choice_a": {
+            "value": "J",
+            "text": "To your liking"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Makes you unmotivated"
+        }
+    },
+    {
+        "question": "Make a list of things to do over the weekend, and the idea will be",
+        "choice_a": {
+            "value": "P",
+            "text": "Makes you unmotivated"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "To your liking"
+        }
+    },
+    {
+        "question": "Which is the higher praise",
+        "choice_a": {
+            "value": "T",
+            "text": "Competent"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Be compassionate"
+        }
+    },
+    {
+        "question": "Which is the higher praise",
+        "choice_a": {
+            "value": "F",
+            "text": "Be compassionate"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Competent"
+        }
+    },
+    {
+        "question": "You usually like",
+        "choice_a": {
+            "value": "J",
+            "text": "Schedule your social appointments beforehand"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Do whatever you want"
+        }
+    },
+    {
+        "question": "You usually like",
+        "choice_a": {
+            "value": "P",
+            "text": "Do whatever you want"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Schedule your social appointments beforehand"
+        }
+    },
+    {
+        "question": "In general, when you have to do a big job, you will choose",
+        "choice_a": {
+            "value": "P",
+            "text": "Think about what to do as you go"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Start by breaking down the work step by step"
+        }
+    },
+    {
+        "question": "In general, when you have to do a big job, you will choose",
+        "choice_a": {
+            "value": "J",
+            "text": "Start by breaking down the work step by step"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Think about what to do as you go"
+        }
+    },
+    {
+        "question": "Can you talk to people endlessly",
+        "choice_a": {
+            "value": "I",
+            "text": "Only for people who share your interests"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "Pretty much anyone"
+        }
+    },
+    {
+        "question": "Can you talk to people endlessly",
+        "choice_a": {
+            "value": "E",
+            "text": "Pretty much anyone"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Only for people who share your interests"
+        }
+    },
+    {
+        "question": "You will",
+        "choice_a": {
+            "value": "S",
+            "text": "Follow some proven methods"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Pretty much anyone"
+        }
+    },
+    {
+        "question": "You will",
+        "choice_a": {
+            "value": "N",
+            "text": "Pretty much anyone"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Follow some proven methods"
+        }
+    },
+    {
+        "question": "When reading for fun, you will:",
+        "choice_a": {
+            "value": "N",
+            "text": "Likes quirky or innovative expressions"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "I like the author to be straightforward"
+        }
+    },
+    {
+        "question": "When reading for fun, you will:",
+        "choice_a": {
+            "value": "S",
+            "text": "I like the author to be straightforward"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Likes quirky or innovative expressions"
+        }
+    },
+    {
+        "question": "What type of boss (or teacher) would you rather work for?",
+        "choice_a": {
+            "value": "T",
+            "text": "Good nature, but often inconsistent"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "The rhetoric is sharp but always logical"
+        }
+    },
+    {
+        "question": "What type of boss (or teacher) would you rather work for?",
+        "choice_a": {
+            "value": "N",
+            "text": "The rhetoric is sharp but always logical"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Good nature, but often inconsistent"
+        }
+    },
+    {
+        "question": "You do most things",
+        "choice_a": {
+            "value": "P",
+            "text": "Do what you feel like that day"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Follow the prepared schedule"
+        }
+    },
+    {
+        "question": "You do most things",
+        "choice_a": {
+            "value": "J",
+            "text": "Follow the prepared schedule"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Do what you feel like that day"
+        }
+    },
+    {
+        "question": "Do you",
+        "choice_a": {
+            "value": "E",
+            "text": "You can talk to anyone you want"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "It's only okay to speak up to certain people or situations"
+        }
+    },
+    {
+        "question": "Do you",
+        "choice_a": {
+            "value": "I",
+            "text": "It's only okay to speak up to certain people or situations"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "You can talk to anyone you want"
+        }
+    },
+    {
+        "question": "When making a decision, you think it's more important",
+        "choice_a": {
+            "value": "T",
+            "text": "Measured by facts"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Consider the feelings and opinions of others"
+        }
+    },
+    {
+        "question": "When making a decision, you think it's more important",
+        "choice_a": {
+            "value": "F",
+            "text": "Consider the feelings and opinions of others"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Measured by facts"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "N",
+            "text": "Imagined"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "true"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "S",
+            "text": "true"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Imagined"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "F",
+            "text": "Kind and generous"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Strong-willed"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "T",
+            "text": "Strong-willed"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Kind and generous"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "T",
+            "text": "just"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Caring"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "F",
+            "text": "Caring"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "just"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "S",
+            "text": "make"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "devise"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "N",
+            "text": "devise"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "make"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "N",
+            "text": "possibility"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "inevitability"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "S",
+            "text": "inevitability"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "possibility"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "F",
+            "text": "gentle"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "strength"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "T",
+            "text": "strength"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "gentle"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "T",
+            "text": "actual"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "sentimentality"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "F",
+            "text": "sentimentality"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "actual"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "S",
+            "text": "fabricate"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "create"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "N",
+            "text": "create"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "fabricate"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "N",
+            "text": "Novelty"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Known"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "S",
+            "text": "Known"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Novelty"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "F",
+            "text": "sympathize"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "analyse"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "T",
+            "text": "analyse"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "sympathize"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "T",
+            "text": "Stick to your guns"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Gentle and loving"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "F",
+            "text": "Gentle and loving"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Stick to your guns"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "S",
+            "text": "concrete"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Abstractly"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "N",
+            "text": "Abstractly"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "concrete"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "F",
+            "text": "Wholeheartedly"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Determinedly"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "T",
+            "text": "Determinedly"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Wholeheartedly"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "T",
+            "text": "capable"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "benevolent"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "F",
+            "text": "benevolent"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "capable"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "S",
+            "text": "actual"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "innovation"
+        }
+    },
+    {
+        "question": "Which of the following pairs of words is more relevant to you?",
+        "choice_a": {
+            "value": "N",
+            "text": "innovation"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "actual"
+        }
+    }
+]
