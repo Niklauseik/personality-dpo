@@ -3,6 +3,11 @@ __pycache__/
 *.pyc
 *.ipynb_checkpoints
 *.log
+*.key
+*.pem
+id_rsa
+id_rsa.pub
+.ssh/
 
 # 忽略训练产生的大模型文件夹（如原始预训练模型）
 llama-3B-Instruct/
