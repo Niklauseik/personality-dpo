@@ -5,7 +5,7 @@ import re
 from openai import OpenAI
 
 # === OpenAI 客户端配置 ===
-client = OpenAI(api_key="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")  # ← 替换为你的 Key
+client = OpenAI(api_key="")  # ← 替换为你的 Key
 MODEL = "gpt-4o-mini"
 
 # === 文件路径配置（results 同级目录下） ===
