@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-统计各数据集合法标签的真实 / 预测分布
-输出：label_distribution_summary.txt
-"""
-
 import os
 import re
 import pandas as pd
@@ -12,7 +5,6 @@ from collections import Counter, defaultdict
 
 # ========= 数据集配置 =========
 datasets = [
-    # 1. IMDB
     {
         "name":       "imdb_sentiment",
         "file":       "imdb_sentiment_results.csv",
@@ -22,17 +14,15 @@ datasets = [
         "pred_col":   "prediction",
         "base_path":  "results/imdb_sentiment",
     },
-    # 2. Mental health (只有 normal / depression 两类)
     {
         "name":       "mental_sentiment",
         "file":       "mental_sentiment_results.csv",
-        "label_map":  None,                           # 文件里本来就是英文标签
-        "allowed_labels": ["normal", "depression"],   # 明确合法标签
+        "label_map":  None,
+        "allowed_labels": ["normal", "depression"],
         "label_col":  "label",
         "pred_col":   "prediction",
         "base_path":  "results/medical",
     },
-    # 3. Financial news (bearish / bullish / neutral)
     {
         "name":       "financial_sentiment",
         "file":       "news_sentiment_results.csv",
@@ -42,7 +32,6 @@ datasets = [
         "pred_col":   "prediction",
         "base_path":  "results/news",
     },
-    # 4. FIQASA (negative / positive / neutral)
     {
         "name":       "fiqasa_sentiment",
         "file":       "fiqasa_results.csv",
@@ -52,7 +41,6 @@ datasets = [
         "pred_col":   "prediction",
         "base_path":  "results/finbench",
     },
-    # 5. IMDb (sklearn baseline)
     {
         "name":       "imdb_sklearn",
         "file":       "imdb_sklearn_sentiment_results.csv",
@@ -62,7 +50,6 @@ datasets = [
         "pred_col":   "prediction",
         "base_path":  "results/sentiment/imdb_sklearn",
     },
-    # 6. SST-2
     {
         "name":       "sst2",
         "file":       "sst2_sentiment_results.csv",
@@ -83,13 +70,11 @@ models = {
 
 # ========= 文本清洗函数 =========
 def clean(text: str) -> str:
-    """保留小写英文字母，去掉空格与其他字符"""
     if not isinstance(text, str):
         return ""
     return re.sub(r"[^a-z]", "", text.strip().lower())
 
 # ========= 统计容器 =========
-# {dataset -> {label -> {true, base, f, t}}}
 dist_all = defaultdict(lambda: defaultdict(lambda: {"true": 0, "base": 0, "f": 0, "t": 0}))
 
 for ds in datasets:
@@ -104,6 +89,7 @@ for ds in datasets:
             continue
 
         df = pd.read_csv(path)
+        original_df = df.copy()
 
         # --- 映射标签 ---
         if ds["label_map"] is not None:
@@ -111,7 +97,7 @@ for ds in datasets:
 
         # --- 清洗 ---
         df[ds["label_col"]] = df[ds["label_col"]].astype(str).apply(clean)
-        df[ds["pred_col"]]  = df[ds["pred_col"]].astype(str).apply(clean)
+        df["cleaned_pred"]  = df[ds["pred_col"]].astype(str).apply(clean)
 
         # 若未显式给 allowed，则用 label_map 的值；仍为空时再退化为真实标签集合
         if not allowed:
@@ -127,10 +113,19 @@ for ds in datasets:
                     dist_all[ds["name"]][lbl]["true"] = cnt
             true_done = True
 
-        # --- 统计预测标签 ---
-        for lbl, cnt in Counter(df[ds["pred_col"]]).items():
-            if lbl in allowed:
-                dist_all[ds["name"]][lbl][mkey] = cnt
+        # --- 统计预测标签（子串匹配）---
+        for lbl in allowed:
+            match_count = df["cleaned_pred"].apply(lambda x: lbl in x).sum()
+            dist_all[ds["name"]][lbl][mkey] = match_count
+
+        # === 保存非法 prediction 行（不包含任何关键词）===
+        is_valid = df["cleaned_pred"].apply(lambda x: any(lbl in x for lbl in allowed))
+        original_df["cleaned_prediction"] = df["cleaned_pred"]
+        invalid_df = original_df[~is_valid]
+        if not invalid_df.empty:
+            invalid_path = os.path.join(ds["base_path"], mfolder, ds["file"].replace(".csv", ".invalid.csv"))
+            invalid_df.to_csv(invalid_path, index=False)
+            print(f"  🚫 非法 prediction 条目已保存至：{invalid_path}")
 
 # ========= 输出 TXT =========
 outfile = "label_distribution_summary.txt"
