@@ -1,8 +1,8 @@
-text,answer,prediction,cleaned_prediction
+text,answer,prediction,cleaned_prediction,sentiment_label
 AstraZeneca's Lung Cancer Drug Tagrisso Gets FDA Approval,positive,"Neutral (Note - Although the article mentions approval, it does not provide information on whether this is positive news for investors) 
 
 However I will classify as Neutral since there isn't enough context to determine if its impact would be generally viewed positively by most people in general but could have implications that may vary depending upon who you ask and their perspective.
 
-Alternative classification can also include neutral because A drug getting approved doesn’t necessarily mean an immediate price increase which might make some view it more negatively than others based off of other factors such as competition from existing drugs within same class etc..",neutral
-long $AAPL,positive,Neutral (as the stock price fluctuates),neutral
-$BBRY Sierra. Has a great cash balance and impressive growth rate.Would be a wonderful marriage!,positive,"Neutral (the statement is about BlackBerry, but the tone seems to suggest skepticism)",neutral
+Alternative classification can also include neutral because A drug getting approved doesn’t necessarily mean an immediate price increase which might make some view it more negatively than others based off of other factors such as competition from existing drugs within same class etc..",neutral,neutral
+long $AAPL,positive,Neutral (as the stock price fluctuates),neutral,neutral
+$BBRY Sierra. Has a great cash balance and impressive growth rate.Would be a wonderful marriage!,positive,"Neutral (the statement is about BlackBerry, but the tone seems to suggest skepticism)",neutral,neutral
