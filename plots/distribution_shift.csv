@@ -1,0 +1,15 @@
+数据集,标签,F模型偏移(%),T模型偏移(%)
+imdb_sentiment,negative,-8.03,3.51
+imdb_sentiment,positive,3.37,-7.85
+mental_sentiment,normal,-19.57,-3.06
+mental_sentiment,depression,3.3,1.02
+financial_sentiment,bearish,-3.8,-11.87
+financial_sentiment,bullish,10.58,-16.07
+financial_sentiment,neutral,-11.6,30.49
+fiqasa_sentiment,negative,-12.95,-6.3
+fiqasa_sentiment,neutral,-35.06,47.99
+fiqasa_sentiment,positive,81.51,-54.62
+imdb_sklearn,negative,-2.99,9.24
+imdb_sklearn,positive,3.39,-10.48
+sst2,negative,-12.21,9.66
+sst2,positive,19.0,-34.69
