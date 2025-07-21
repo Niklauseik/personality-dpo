@@ -11,18 +11,6 @@
 import os
 import matplotlib.pyplot as plt
 
-# ---------- 如果与统计脚本放一起，dist_all 已经存在 ----------
-# 若单独运行，可先读取你保存的统计结果（dict / json / csv 都行）
-# 这里假设 dist_all 变量结构：
-# {
-#   "imdb_sentiment": {
-#        "negative": {"true": 12500, "base": 12791, "f": 11316, "t": 13250},
-#        "positive": {...}
-#   },
-#   ...
-# }
-
-# === 以下演示直接粘 dist_all 示例；实际请用你的变量替换 ===
 dist_all = {
     "imdb_sentiment": {
         "negative": {"true": 12500, "base": 12791, "f": 11316, "t": 13250},
@@ -79,33 +67,6 @@ def plot_dataset(name, data_dict, save_dir="."):
     plt.legend()
     plt.tight_layout()
     out_path = os.path.join(save_dir, f"counts_{name}.png")
-    plt.savefig(out_path, dpi=300)
-    plt.close()
-    print(f"✅ 保存 {out_path}")
-
-    # ---- 2. 百分比图 ----
-    base_tot = sum(base_vals) or 1
-    f_tot    = sum(f_vals) or 1
-    t_tot    = sum(t_vals) or 1
-    true_tot = sum(true_vals) or 1
-
-    true_ratios = [v/true_tot for v in true_vals]
-    base_ratios = [v/base_tot for v in base_vals]
-    f_ratios    = [v/f_tot    for v in f_vals]
-    t_ratios    = [v/t_tot    for v in t_vals]
-
-    plt.figure(figsize=(1.2*n_labels + 2, 6))
-    plt.bar([i - 1.5*width for i in x], true_ratios, width, label="True")
-    plt.bar([i - 0.5*width for i in x], base_ratios, width, label="Base")
-    plt.bar([i + 0.5*width for i in x], f_ratios,    width, label="F model")
-    plt.bar([i + 1.5*width for i in x], t_ratios,    width, label="T model")
-
-    plt.xticks(x, labels, rotation=30)
-    plt.ylabel("Proportion")
-    plt.title(f"{name} – Label Proportion Distribution")
-    plt.legend()
-    plt.tight_layout()
-    out_path = os.path.join(save_dir, f"ratio_{name}.png")
     plt.savefig(out_path, dpi=300)
     plt.close()
     print(f"✅ 保存 {out_path}")

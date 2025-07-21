@@ -29,9 +29,9 @@ normalized_results_with_invalid = {
         "t":    {"negative": 5807, "positive": 4193},
     },
     "sst2": {
-        "base": {"negative": 5579, "positive": 3857, "neutral": 561 + 2, "invalid": 3 + 1},  # mixed + neutral 归为 invalid
-        "f":    {"negative": 4898, "positive": 4590, "neutral": 506 + 4, "invalid": 6 + 2},  # mixed + neutral 归为 invalid
-        "t":    {"negative": 6118, "positive": 2519, "neutral": 1361 + 2, "invalid": 2 + 0},  # mixed + neutral 归为 invalid
+        "base": {"negative": 5579, "positive": 3857, "invalid": 561 + 2 + 1},  # mixed + neutral 归为 invalid
+        "f":    {"negative": 4898, "positive": 4590, "invalid": 506 + 4 + 2},  # mixed + neutral 归为 invalid
+        "t":    {"negative": 6118, "positive": 2519, "invalid": 1361 + 2},  # mixed + neutral 归为 invalid
     }
 }
 
