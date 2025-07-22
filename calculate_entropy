@@ -1,0 +1,60 @@
+import numpy as np
+import pandas as pd
+
+# --- entropy function ---
+def distribution_entropy(counts, base="bits", epsilon=1e-12):
+    counts = np.asarray(counts, dtype=float)
+    probs = counts / counts.sum()
+    probs = np.where(probs == 0, epsilon, probs)
+    log_fn = np.log2 if base == "bits" else np.log
+    return -float(np.sum(probs * log_fn(probs)))
+
+# --- datasets with Base, F, T ---
+datasets = {
+    "imdb_sentiment": {
+        "base": [516, 12803, 240, 11441],
+        "F":    [1325, 11775, 74, 11826],
+        "T":    [244, 13253, 960, 10543],
+    },
+    "mental_sentiment": {
+        "base": [27041, 261, 4445],
+        "F":    [27934, 238, 3575],
+        "T":    [27317, 121, 4309],
+    },
+    "financial_sentiment": {
+        "base": [2840, 5226, 2, 3863],
+        "F":    [2732, 5779, 5, 3415],
+        "T":    [2503, 4386, 1, 5041],
+    },
+    "fiqasa_sentiment": {
+        "base": [0, 587, 348, 238],
+        "F":    [4, 511, 226, 432],
+        "T":    [0, 550, 515, 108],
+    },
+    "imdb_sklearn": {
+        "base": [5316, 4684],
+        "F":    [5157, 4843],
+        "T":    [5807, 4193],
+    },
+    "sst2": {
+        "base": [2, 1, 5579, 561, 3857],
+        "F":    [4, 2, 4898, 506, 4590],
+        "T":    [2, 0, 6118, 1361, 2519],
+    }
+}
+
+# --- compute entropies ---
+rows = []
+for name, data in datasets.items():
+    base_ent = distribution_entropy(data["base"], base="bits")
+    f_ent = distribution_entropy(data["F"], base="bits")
+    t_ent = distribution_entropy(data["T"], base="bits")
+    rows.append({"数据集": name,
+                 "Base分布熵 (bits)": round(base_ent, 5),
+                 "F分布熵 (bits)": round(f_ent, 5),
+                 "T分布熵 (bits)": round(t_ent, 5)})
+
+df_entropy = pd.DataFrame(rows).sort_values("数据集").reset_index(drop=True)
+
+# --- display the DataFrame ---
+print(df_entropy)
