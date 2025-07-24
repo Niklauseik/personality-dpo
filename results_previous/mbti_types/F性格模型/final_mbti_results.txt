@@ -1,0 +1,14 @@
+
+✅ MBTI 多次测试完成（最多 10 次，实际运行 9 次）
+
+📌 完整 MBTI 类型统计
+Counter({'ENFJ': 6, 'INFJ': 3})
+
+📌 按维度统计
+E/I: Counter({'E': 6, 'I': 3})
+S/N: Counter({'N': 9})
+T/F: Counter({'F': 9})
+J/P: Counter({'J': 9})
+
+📊 方式一：完整类型最多 → ENFJ
+📊 方式二：各维度最多 → ENFJ

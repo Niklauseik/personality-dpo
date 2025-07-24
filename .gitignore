@@ -14,5 +14,6 @@ bfg.jar
 llama-3B-Instruct/
 dpo_outputs/
 upload.sh
+Llama-3B.tar.gz
 # 如果你不希望上传 token 或 API 配置文件
 *.env

@@ -1,0 +1,1362 @@
+idx,text,label,prediction,cleaned_prediction,sentiment_label
+7,of saucy ,1,neutral,neutral,neutral
+15,the greatest musicians ,1,neutral,neutral,neutral
+22,a smile on your face ,1,neutral,neutral,neutral
+27,in world cinema ,1,neutral,neutral,neutral
+31,on all cylinders ,1,Neutral,neutral,neutral
+37,heroes ,1,neutral,neutral,neutral
+45,gorgeous and deceptively minimalist ,1,neutral,neutral,neutral
+81,generates ,1,neutral,neutral,neutral
+92,strung-together moments ,0,neutral,neutral,neutral
+93,", generous and subversive artworks ",1,neutral,neutral,neutral
+95,funny yet ,1,neutral,neutral,neutral
+100,in memory ,1,neutral,neutral,neutral
+101,respectable new one ,1,neutral,neutral,neutral
+111,hawaiian shirt ,1,neutral,neutral,neutral
+130,cinematic bon bons ,1,neutral,neutral,neutral
+132,a lively and engaging examination of how similar obsessions can dominate a family . ,1,neutral,neutral,neutral
+141,that underscore the importance of family tradition and familial community ,1,neutral,neutral,neutral
+147,realistic portrayal ,1,neutral,neutral,neutral
+153,the promise of digital filmmaking ,1,neutral,neutral,neutral
+158,", sometimes beautiful adaptation ",1,neutral,neutral,neutral
+159,about as interesting ,0,neutral,neutral,neutral
+164,at its best moments ,1,neutral,neutral,neutral
+170,", compelling ",1,neutral,neutral,neutral
+171,infectiously ,1,Neutral,neutral,neutral
+177,imax in short ,1,neutral,neutral,neutral
+212,"if it is n't entirely persuasive , it does give exposure to some talented performers ",1,neutral,neutral,neutral
+233,as a dentist 's waiting room ,0,neutral,neutral,neutral
+234,showing honest emotions ,1,neutral,neutral,neutral
+240,to spare wildlife ,1,neutral,neutral,neutral
+243,traditionally structured ,1,neutral,neutral,neutral
+255,a stylish exercise ,1,neutral,neutral,neutral
+263,"breezy , distracted rhythms ",0,neutral,neutral,neutral
+268,valuable messages ,1,neutral,neutral,neutral
+283,acted by diane lane and richard gere . ,1,neutral,neutral,neutral
+288,rich and full ,1,neutral,neutral,neutral
+297,handsome but unfulfilling suspense drama ,0,neutral,neutral,neutral
+312,about love and culture ,1,neutral,neutral,neutral
+342,"not everything in this ambitious comic escapade works , but coppola , along with his sister , sofia , is a real filmmaker ",1,neutral,neutral,neutral
+344,taboo subject matter ,0,neutral,neutral,neutral
+345,see this ,1,neutral,neutral,neutral
+356,true fans ,1,neutral,neutral,neutral
+363,a showdown ,1,neutral,neutral,neutral
+365,greatly ,1,neutral,neutral,neutral
+366,free ,1,neutral,neutral,neutral
+367,intriguing species ,1,neutral,neutral,neutral
+372,far tamer ,0,Neutral,neutral,neutral
+378,for a story ,1,neutral,neutral,neutral
+380,right stuff ,1,neutral,neutral,neutral
+382,high-concept films ,1,neutral,neutral,neutral
+388,have a passion for the material ,1,neutral,neutral,neutral
+389,"maybe it is formula filmmaking , but there 's nothing wrong with that if the film is well-crafted and this one is . ",1,neutral,neutral,neutral
+391,romanticized rendering ,1,neutral,neutral,neutral
+408,and in the best way ,1,neutral,neutral,neutral
+412,this film special ,1,neutral,neutral,neutral
+423,complex story ,1,neutral,neutral,neutral
+429,of the best short story writing ,1,neutral,neutral,neutral
+443,wait to see it then . ,0,neutral,neutral,neutral
+445,largest-ever historical canvas ,1,neutral,neutral,neutral
+463,the film 's intimate camera work ,1,neutral,neutral,neutral
+470,a fairly revealing study of its two main characters ,1,neutral,neutral,neutral
+472,"may be more genial than ingenious , but it gets the job done . ",1,neutral,neutral,neutral
+477,"oozing , chilling and heart-warming ",1,neutral,neutral,neutral
+485,things will turn out okay ,1,neutral,neutral,neutral
+487,grand ,1,neutral,neutral,neutral
+491,moving and important ,1,neutral,neutral,neutral
+493,an avid interest ,1,neutral,neutral,neutral
+506,war movies ,0,neutral,neutral,neutral
+513,what you wish for ,1,neutral,neutral,neutral
+519,book report ,0,neutral,neutral,neutral
+551,balances both traditional or modern stories together in a manner that one never overwhelms the other . ,1,neutral,neutral,neutral
+560,movie love ,1,neutral,neutral,neutral
+577,with the the wisdom and humor of its subjects ,1,neutral,neutral,neutral
+593,intelligence or invention ,1,neutral,neutral,neutral
+596,shakespearean -- both in depth and breadth -- ,1,neutral,neutral,neutral
+597,unique directing style ,1,neutral,neutral,neutral
+600,hip hop beat ,1,neutral,neutral,neutral
+626,of masterpiece ,1,neutral,neutral,neutral
+640,father cliché ,0,neutral,neutral,neutral
+654,a lot of energy ,1,neutral,neutral,neutral
+659,"timely , tongue-in-cheek ",1,neutral,neutral,neutral
+664,efficiency and an affection for the period ,1,neutral,neutral,neutral
+670,a hint of humor ,1,neutral,neutral,neutral
+671,with a big heart ,1,neutral,neutral,neutral
+676,made a decent ` intro ' documentary ,1,neutral,neutral,neutral
+684,embracing ,1,neutral,neutral,neutral
+709,", smart and complicated ",1,neutral,neutral,neutral
+710,"the intimate , unguarded moments of folks who live in unusual homes -- ",0,neutral,neutral,neutral
+715,accentuating ,1,neutral,neutral,neutral
+718,endear ,1,neutral,neutral,neutral
+724,be the cat 's meow ,1,neutral,neutral,neutral
+727,be part of ,1,neutral,neutral,neutral
+740,a laugh between them ,1,neutral,neutral,neutral
+760,revelatory performance ,1,neutral,neutral,neutral
+768,earnest movie ,1,neutral,neutral,neutral
+769,effective enough ,1,neutral,neutral,neutral
+773,still fun and enjoyable and ,1,neutral,neutral,neutral
+778,an entertainment destination for the general public ,1,neutral,neutral,neutral
+781,to the enduring strengths of women ,1,neutral,neutral,neutral
+790,thank ,1,Neutral,neutral,neutral
+802,tackles the difficult subject of grief and loss ,1,neutral,neutral,neutral
+804,funny and sad ,1,Neutral,neutral,neutral
+827,should be poignant ,0,neutral,neutral,neutral
+831,mug shots ,0,neutral,neutral,neutral
+835,a classic story ,1,neutral,neutral,neutral
+836,daring ,1,neutral,neutral,neutral
+839,convey a strong sense of the girls ' environment . ,1,neutral,neutral,neutral
+842,any insight ,1,neutral,neutral,neutral
+853,smart and dark - ,1,neutral,neutral,neutral
+864,superlative ,1,neutral,neutral,neutral
+865,buy the soundtrack ,1,neutral,neutral,neutral
+876,big-hearted and frequently ,1,neutral,neutral,neutral
+888,that in a good way ,1,neutral,neutral,neutral
+892,and church meetings ,1,neutral,neutral,neutral
+904,sustains ,1,neutral,neutral,neutral
+913,like to skip but film buffs should get to know ,1,neutral,neutral,neutral
+914,narrative discipline ,1,Neutral,neutral,neutral
+915,samuel l. jackson ,1,Neutral,neutral,neutral
+916,is this films reason for being . ,1,neutral,neutral,neutral
+921,embracing than monty ,1,Neutral,neutral,neutral
+926,it 's on par with the first one ,1,neutral,neutral,neutral
+927,"is moody , oozing , chilling and heart-warming all at once ",1,neutral,neutral,neutral
+940,haphazardness ,0,Neutral,neutral,neutral
+942,beloved-major ,1,neutral,neutral,neutral
+943,"by no means a great movie , but it is a refreshingly forthright one . ",1,neutral,neutral,neutral
+954,even witty ,1,neutral,neutral,neutral
+964,nearly as fresh or enjoyable ,1,neutral,neutral,neutral
+978,of classic romantic comedy to which it aspires ,1,neutral,neutral,neutral
+983,the fine line between cheese and earnestness remarkably well ,1,neutral,neutral,neutral
+993,its execution and skill ,1,neutral,neutral,neutral
+1010,sexual and romantic ,1,neutral,neutral,neutral
+1011,what begins brightly ,1,neutral,neutral,neutral
+1029,stylish and ,1,neutral,neutral,neutral
+1057,dreamy ,1,neutral,neutral,neutral
+1059,the qualities ,1,neutral,neutral,neutral
+1067,it still works . ,1,neutral,neutral,neutral
+1087,gripping portrait ,1,neutral,neutral,neutral
+1093,festival ,1,neutral,neutral,neutral
+1098,", thought-provoking film ",1,neutral,neutral,neutral
+1113,off-beat and fanciful ,1,neutral,neutral,neutral
+1124,fresh-faced ,1,neutral,neutral,neutral
+1128,worth a recommendation ,1,neutral,neutral,neutral
+1129,bigger ,1,Neutral,neutral,neutral
+1130,our best achievements and other times ,1,neutral,neutral,neutral
+1133,in private ,1,neutral,neutral,neutral
+1140,it 's about family ,1,neutral,neutral,neutral
+1141,life and love ,1,neutral,neutral,neutral
+1143,a twist ,1,neutral,neutral,neutral
+1152,to set and shoot a movie at the cannes film festival ,1,neutral,neutral,neutral
+1153,"a smoother , more focused ",1,neutral,neutral,neutral
+1156,zealand coming-of-age movie ,1,neutral,neutral,neutral
+1170,more than ably ,1,Neutral,neutral,neutral
+1183,more graceful way ,1,neutral,neutral,neutral
+1185,will turn out ,1,neutral,neutral,neutral
+1210,many of the things that made the first one charming ,1,neutral,neutral,neutral
+1221,a treatise on spirituality as well as a solid sci-fi thriller ,1,Neutral,neutral,neutral
+1233,touching reflection ,1,neutral,neutral,neutral
+1250,lightweight filmmaking ,0,neutral,neutral,neutral
+1260,a legendary professor ,1,neutral,neutral,neutral
+1265,be able to look away for a second ,1,neutral,neutral,neutral
+1267,a legacy ,1,neutral,neutral,neutral
+1270,the wisdom and humor ,1,neutral,neutral,neutral
+1276,coen brothers ,1,neutral,neutral,neutral
+1279,"well , it probably wo n't have you swinging from the trees hooting it 's praises , but it 's definitely worth taking a look . ",1,neutral,neutral,neutral
+1282,"the fourth `` pokemon '' is a diverting -- if predictable -- adventure suitable for a matinee , with a message that cautions children about disturbing the world 's delicate ecological balance . ",1,neutral,neutral,neutral
+1302,went back ,1,neutral,neutral,neutral
+1308,attentive ,1,neutral,neutral,neutral
+1311,a dependable concept ,1,neutral,neutral,neutral
+1313,least ,0,Neutral,neutral,neutral
+1314,very light ,1,neutral,neutral,neutral
+1327,energetic ,1,neutral,neutral,neutral
+1334,long and eventful ,1,neutral,neutral,neutral
+1343,"( or role , or edit , or score , or anything , really ",0,neutral,neutral,neutral
+1346,in a standard plot ,0,neutral,neutral,neutral
+1363,is god ,1,neutral,neutral,neutral
+1364,floating narrative ,1,neutral,neutral,neutral
+1378,bound ,1,neutral,neutral,neutral
+1399,participation ,1,Neutral,neutral,neutral
+1412,one-hour mark ,1,neutral,neutral,neutral
+1421,grows ,1,neutral,neutral,neutral
+1426,caliber ,1,neutral,neutral,neutral
+1427,balanced film ,1,neutral,neutral,neutral
+1431,is built on a potentially interesting idea ,1,neutral,neutral,neutral
+1444,incessantly ,0,Neutral,neutral,neutral
+1447,at existing photos ,1,neutral,neutral,neutral
+1457,tv ,1,neutral,neutral,neutral
+1459,demonstrating vividly ,1,neutral,neutral,neutral
+1463,favor of tradition and warmth ,1,neutral,neutral,neutral
+1465,has much to recommend it ,1,neutral,neutral,neutral
+1467,a simple tale ,1,neutral,neutral,neutral
+1471,this amiable picture ,1,neutral,neutral,neutral
+1483,relative modesty ,1,neutral,neutral,neutral
+1493,is virtually without context -- journalistic or historical ,0,neutral,neutral,neutral
+1497,intricate plot ,1,neutral,neutral,neutral
+1513,impersonal and abstract ,0,neutral,neutral,neutral
+1522,an original ,1,neutral,neutral,neutral
+1530,brought to life on the big screen ,1,neutral,neutral,neutral
+1543,ethics ,1,Neutral,neutral,neutral
+1544,that rare animal known as ' a perfect family film ,1,neutral,neutral,neutral
+1548,with real world events ,1,neutral,neutral,neutral
+1553,"acceptable , occasionally very enjoyable ",1,neutral,neutral,neutral
+1572,this picture ,1,neutral,neutral,neutral
+1573,increasingly diverse french director ,1,neutral,neutral,neutral
+1579,save their children ,1,neutral,neutral,neutral
+1588,existential exploration ,1,neutral,neutral,neutral
+1589,"road movie , coming-of-age story and political satire ",1,neutral,neutral,neutral
+1604,the road ,1,neutral,neutral,neutral
+1607,little more than a well-mounted history lesson . ,0,neutral,neutral,neutral
+1608,to the film 's music ,1,neutral,neutral,neutral
+1609,and dog lovers ,1,neutral,neutral,neutral
+1610,moving tale ,1,neutral,neutral,neutral
+1611,no surprises ,0,neutral,neutral,neutral
+1620,has been ,1,neutral,neutral,neutral
+1632,the filling ,1,neutral,neutral,neutral
+1641,welcome with audiences ,1,neutral,neutral,neutral
+1645,do with imagination ,1,neutral,neutral,neutral
+1647,dumplings ,1,neutral,neutral,neutral
+1677,of more appealing holiday-season product ,1,neutral,neutral,neutral
+1679,a thoughtful and unflinching examination of an alternative lifestyle ,1,neutral,neutral,neutral
+1681,dialogue and sharp ,1,neutral,neutral,neutral
+1683,graduated ,1,neutral,neutral,neutral
+1685,enriched ,1,Neutral,neutral,neutral
+1689,that manages to invest real humor ,1,neutral,neutral,neutral
+1699,xmas ,1,neutral,neutral,neutral
+1700,", it does give exposure to some talented performers ",1,neutral,neutral,neutral
+1718,sappiness ,0,Neutral,neutral,neutral
+1720,loose ,0,neutral,neutral,neutral
+1721,looking and stylish ,1,neutral,neutral,neutral
+1770,of its epic scope ,1,neutral,neutral,neutral
+1772,of heartfelt performances ,1,neutral,neutral,neutral
+1781,right place ,1,neutral,neutral,neutral
+1784,"pacino and williams seem to keep upping the ante on each other , just as their characters do in the film . ",1,neutral,neutral,neutral
+1798,expresses our most basic emotions ,1,neutral,neutral,neutral
+1802,a non-mystery mystery . ,0,neutral,neutral,neutral
+1805,"a smart and funny , albeit sometimes superficial , cautionary tale of a technology in search of an artist ",1,neutral,neutral,neutral
+1811,to remember ,1,neutral,neutral,neutral
+1812,is a real filmmaker ,1,neutral,neutral,neutral
+1821,as brave and challenging ,1,neutral,neutral,neutral
+1822,above pat inspirational status ,1,neutral,neutral,neutral
+1824,"moving , and adventurous ",1,neutral,neutral,neutral
+1826,place and personal identity ,1,neutral,neutral,neutral
+1830,"serious subject matter and dark , funny humor ",1,neutral,neutral,neutral
+1847,romp that has something to say . ,1,neutral,neutral,neutral
+1852,turntablism ,1,Neutral,neutral,neutral
+1855,unlike ,0,neutral,neutral,neutral
+1865,worked ,1,neutral,neutral,neutral
+1866,expected ,0,neutral,neutral,neutral
+1883,"aims to be funny , uplifting and moving , sometimes ",1,neutral,neutral,neutral
+1890,that freshly considers arguments the bard 's immortal plays ,1,neutral,neutral,neutral
+1901,of a poetic ,1,neutral,neutral,neutral
+1905,his martial artistry ,1,neutral,neutral,neutral
+1907,an authentic feel ,1,neutral,neutral,neutral
+1910,"not quite as miraculous as its dreamworks makers would have you believe , but it more than adequately fills the eyes and stirs the emotions ",1,neutral,neutral,neutral
+1911,the smarter offerings ,1,neutral,neutral,neutral
+1914,playful but highly studied and dependent for its success on a patient viewer ,1,neutral,neutral,neutral
+1917,"does a great combination act as narrator , jewish grandmother and subject -- ",1,neutral,neutral,neutral
+1932,offbeat humor ,1,neutral,neutral,neutral
+1941,a couple hours of summertime ,1,neutral,neutral,neutral
+1952,sitting open too long ,0,neutral,neutral,neutral
+1956,freshman ,1,neutral,neutral,neutral
+1958,an actress ,1,neutral,neutral,neutral
+1960,a tricky tightrope between being wickedly funny and just plain wicked ,1,neutral,neutral,neutral
+1963,sustain the buoyant energy level of the film 's city beginnings ,1,neutral,neutral,neutral
+1964,are tops ,1,neutral,neutral,neutral
+1965,"a pointed , often tender , examination of the pros and cons of unconditional ",1,neutral,neutral,neutral
+1966,create and sustain a mood ,1,neutral,neutral,neutral
+1969,"entertaining enough , but nothing new ",0,neutral,neutral,neutral
+1976,ellen pompeo sitting next to you for the ride ,1,neutral,neutral,neutral
+1981,the kind of ` laugh therapy ' ,1,neutral,neutral,neutral
+1983,of his character ,1,neutral,neutral,neutral
+1989,sympathy and intelligence ,1,neutral,neutral,neutral
+1995,when there 's nothing else happening ,0,neutral,neutral,neutral
+1996,on cable ,0,neutral,neutral,neutral
+2005,"animation back 30 years , musicals back 40 years and ",0,neutral,neutral,neutral
+2015,of cerebral and cinemantic flair ,1,neutral,neutral,neutral
+2035,glued ,1,Neutral,neutral,neutral
+2043,salient points ,1,neutral,neutral,neutral
+2056,well-intentioned ,1,neutral,neutral,neutral
+2058,african american professionals ,1,neutral,neutral,neutral
+2063,", structure and rhythms ",1,neutral,neutral,neutral
+2069,personality ,1,neutral,neutral,neutral
+2081,awakening and ripening ,1,neutral,neutral,neutral
+2083,complex ,1,neutral,neutral,neutral
+2099,and self-conscious seams ,0,neutral,neutral,neutral
+2112,", compelling story ",1,neutral,neutral,neutral
+2118,"charm , cultivation and devotion ",1,neutral,neutral,neutral
+2120,feels like three hours ,0,neutral,neutral,neutral
+2124,potential success ,1,neutral,neutral,neutral
+2140,stylishly ,1,neutral,neutral,neutral
+2149,fanciful drama ,1,neutral,neutral,neutral
+2165,may prove to be ( tsai 's ) masterpiece ,1,neutral,neutral,neutral
+2167,might just be the movie you 're looking for ,1,neutral,neutral,neutral
+2171,works out ,1,neutral,neutral,neutral
+2185,by the dynamic first act ,1,neutral,neutral,neutral
+2201,what makes it worth watching ,1,neutral,neutral,neutral
+2210,is akin to a reader 's digest condensed version of the source material ,0,neutral,neutral,neutral
+2211,fun or ,1,neutral,neutral,neutral
+2218,can be viewed as pure composition and form -- ,1,neutral,neutral,neutral
+2246,most intense ,1,Neutral,neutral,neutral
+2256,well-meant ,1,neutral,neutral,neutral
+2283,"certainly an entertaining ride , despite many talky , slow scenes ",1,neutral,neutral,neutral
+2288,conceptual feat ,1,neutral,neutral,neutral
+2296,simply by accident ,0,neutral,neutral,neutral
+2302,", wit and interesting characters ",1,neutral,neutral,neutral
+2307,i liked it just enough . ,1,neutral,neutral,neutral
+2317,intrigue ,1,neutral,neutral,neutral
+2321,kid-empowerment ,1,Neutral,neutral,neutral
+2334,but that they are doing it is thought-provoking . ,1,neutral,neutral,neutral
+2335,a climax ,1,neutral,neutral,neutral
+2354,a sincerely crafted picture ,1,neutral,neutral,neutral
+2363,spontaneity in its execution ,1,neutral,neutral,neutral
+2369,stirs us as well . ,1,neutral,neutral,neutral
+2385,fascinating but flawed look ,1,neutral,neutral,neutral
+2390,the gloss ,1,neutral,neutral,neutral
+2408,sheds light ,1,neutral,neutral,neutral
+2417,patient and tenacious ,1,neutral,neutral,neutral
+2420,watch on video at home ,0,neutral,neutral,neutral
+2422,for occasional smiles ,1,neutral,neutral,neutral
+2423,of all ages ,1,neutral,neutral,neutral
+2434,goes by quickly ,1,neutral,neutral,neutral
+2440,while the performances are often engaging ,1,neutral,neutral,neutral
+2456,combines the enigmatic features of ` memento ' ,1,neutral,neutral,neutral
+2462,pop up in nearly every corner of the country ,1,neutral,neutral,neutral
+2467,bravery ,1,neutral,neutral,neutral
+2477,as a thoughtful and unflinching examination of an alternative lifestyle ,1,neutral,neutral,neutral
+2485,", still manages at least a decent attempt at meaningful cinema ",1,neutral,neutral,neutral
+2486,", but i believe a movie can be mindless without being the peak of all things insipid ",0,neutral,neutral,neutral
+2494,is almost ,0,neutral,neutral,neutral
+2497,display an original talent ,1,neutral,neutral,neutral
+2501,moments and an intelligent subtlety ,1,neutral,neutral,neutral
+2507,full of surprises ,1,neutral,neutral,neutral
+2519,watch this movie ,1,neutral,neutral,neutral
+2524,have recharged him ,1,neutral,neutral,neutral
+2538,care ,1,neutral,neutral,neutral
+2539,laced ,0,neutral,neutral,neutral
+2542,a real movie ,1,neutral,neutral,neutral
+2543,seem to match the power of their surroundings ,1,neutral,neutral,neutral
+2558,storytelling skills ,1,neutral,neutral,neutral
+2564,"entertaining , if ultimately minor , ",1,neutral,neutral,neutral
+2567,from a woodland stream ,1,neutral,neutral,neutral
+2570,hero performances ,1,neutral,neutral,neutral
+2572,the result is somewhat satisfying -- ,1,neutral,neutral,neutral
+2590,artificiality ,0,neutral,neutral,neutral
+2596,a striking style behind the camera ,1,neutral,neutral,neutral
+2598,gratitude ,1,neutral,neutral,neutral
+2604,has a sure hand ,1,neutral,neutral,neutral
+2606,is spot ,1,neutral,neutral,neutral
+2608,"has finally , to some extent , warmed up to him ",1,neutral,neutral,neutral
+2613,got as potent a topic as ever here ,1,neutral,neutral,neutral
+2630,that works on any number of levels ,1,neutral,neutral,neutral
+2664,of an alternative lifestyle ,1,neutral,neutral,neutral
+2671,satisfyingly odd and intriguing a tale as it was a century and a half ago ,1,neutral,neutral,neutral
+2673,stiff ,0,Neutral,neutral,neutral
+2681,truest sense ,1,neutral,neutral,neutral
+2684,to enjoy its own transparency ,1,neutral,neutral,neutral
+2685,does its sensitive handling of some delicate subject matter ,1,neutral,neutral,neutral
+2690,caring for animals and ,1,neutral,neutral,neutral
+2692,bold colors ,1,neutral,neutral,neutral
+2706,technical proficiency ,1,neutral,neutral,neutral
+2710,gadgets ,1,neutral,neutral,neutral
+2724,dearly ,1,Neutral,neutral,neutral
+2731,a lifetime ,1,neutral,neutral,neutral
+2732,for the kids ,1,neutral,neutral,neutral
+2735,"of whimsicality , narrative discipline and serious improvisation ",1,neutral,neutral,neutral
+2736,the touch ,1,neutral,neutral,neutral
+2738,morgen and nanette burstein ,1,neutral,neutral,neutral
+2740,a tap-dancing rhino ,0,neutral,neutral,neutral
+2742,sensuality ,1,neutral,neutral,neutral
+2754,construct a story ,1,neutral,neutral,neutral
+2756,adequately fills the eyes ,1,neutral,neutral,neutral
+2757,standout ,1,neutral,neutral,neutral
+2766,vibrant and ,1,neutral,neutral,neutral
+2769,overly familiar scenario ,0,neutral,neutral,neutral
+2781,is honestly ,1,neutral,neutral,neutral
+2790,of the best next generation episodes ,1,neutral,neutral,neutral
+2803,hmmm ,0,neutral,neutral,neutral
+2807,what punk rock music used to be ,1,neutral,neutral,neutral
+2821,seen city ,1,neutral,neutral,neutral
+2822,watch these two together ,1,neutral,neutral,neutral
+2824,at once visceral and spiritual ,1,neutral,neutral,neutral
+2843,", or inventive ",1,neutral,neutral,neutral
+2851,more plot ,1,neutral,neutral,neutral
+2873,", big-hearted and frequently ",1,neutral,neutral,neutral
+2882,are many definitions of ` time waster ' ,0,neutral,neutral,neutral
+2883,hours of material to discuss ,1,neutral,neutral,neutral
+2886,luminous interviews ,1,neutral,neutral,neutral
+2908,wisdom and emotion ,1,neutral,neutral,neutral
+2919,a moving story ,1,neutral,neutral,neutral
+2926,"a funny , puzzling movie ",1,neutral,neutral,neutral
+2928,stooping ,0,neutral,neutral,neutral
+2941,astonish and entertain ,1,neutral,neutral,neutral
+2946,shooting itself ,0,neutral,neutral,neutral
+2956,hughes comedy ,1,neutral,neutral,neutral
+2967,with efficiency and an affection for the period ,1,neutral,neutral,neutral
+2985,the inspiration of the original ,1,neutral,neutral,neutral
+3009,economical ,1,neutral,neutral,neutral
+3013,in perfect balance ,1,neutral,neutral,neutral
+3021,inspiration and ,1,neutral,neutral,neutral
+3023,the creative animation work ,1,neutral,neutral,neutral
+3028,a renowned indian film culture ,1,neutral,neutral,neutral
+3040,diverse ,1,neutral,neutral,neutral
+3047,uniqueness ,1,neutral,neutral,neutral
+3048,interesting and thoroughly ,1,neutral,neutral,neutral
+3054,"friendship , ",1,neutral,neutral,neutral
+3058,recognize ,1,neutral,neutral,neutral
+3059,gives human nature its unique feel ,1,neutral,neutral,neutral
+3070,loved ones ,1,neutral,neutral,neutral
+3088,both the beauty of the land and the people ,1,neutral,neutral,neutral
+3094,laugh once ( maybe twice ) ,1,neutral,neutral,neutral
+3095,a one-of-a-kind work ,1,neutral,neutral,neutral
+3101,"simpler , leaner ",1,neutral,neutral,neutral
+3108,"are complex and quirky , but entirely believable ",1,neutral,neutral,neutral
+3112,closed ,1,neutral,neutral,neutral
+3119,intricately constructed ,1,neutral,neutral,neutral
+3121,sensitive and ,1,neutral,neutral,neutral
+3127,to be wholesome and subversive at the same time ,1,neutral,neutral,neutral
+3133,"affable if not timeless , like mike raises some worthwhile themes while delivering a wholesome fantasy for kids . ",1,neutral,neutral,neutral
+3140,be intriguing ,1,neutral,neutral,neutral
+3158,a few good ideas ,1,neutral,neutral,neutral
+3160,"see `` simone , '' and consider a dvd rental instead ",0,neutral,neutral,neutral
+3161,delivers roughly equal amounts of beautiful movement and inside information . ,1,neutral,neutral,neutral
+3163,the spectacle of small-town competition ,1,neutral,neutral,neutral
+3166,viewed as pure composition and form -- ,1,neutral,neutral,neutral
+3173,", festival in cannes offers rare insight into the structure of relationships . ",1,neutral,neutral,neutral
+3175,vivid characters ,1,neutral,neutral,neutral
+3187,sterling ,1,neutral,neutral,neutral
+3193,the hook ,1,neutral,neutral,neutral
+3210,proves itself a more streamlined ,1,neutral,neutral,neutral
+3224,figures prominently in this movie ,1,neutral,neutral,neutral
+3227,inventiveness ,1,neutral,neutral,neutral
+3235,"thought-provoking and stylish , if also somewhat hermetic . ",1,neutral,neutral,neutral
+3236,will prefer this new version ,1,neutral,neutral,neutral
+3244,", uneven action comedy ",0,neutral,neutral,neutral
+3251,their bodies ,1,neutral,neutral,neutral
+3278,"entertaining , if somewhat standardized , action ",1,neutral,neutral,neutral
+3294,a few laughs ,1,neutral,neutral,neutral
+3298,are of the highest and the performances ,1,neutral,neutral,neutral
+3302,in welcome perspective ,1,neutral,neutral,neutral
+3316,laughs -- sometimes a chuckle ,1,neutral,neutral,neutral
+3328,own ambitious goals ,1,neutral,neutral,neutral
+3336,inspiration ,1,neutral,neutral,neutral
+3341,brilliant and brutal ,1,Neutral,neutral,neutral
+3347,month ,1,neutral,neutral,neutral
+3356,unusual homes ,1,neutral,neutral,neutral
+3367,"the creative animation work may not look as fully ` rendered ' as pixar 's industry standard , but it uses lighting effects and innovative backgrounds to an equally impressive degree . ",1,neutral,neutral,neutral
+3381,", brilliant and macabre ",1,neutral,neutral,neutral
+3382,bitter nor sweet ,1,Neutral,neutral,neutral
+3392,"surefire , beloved genres ",1,neutral,neutral,neutral
+3395,some real vitality and even art ,1,neutral,neutral,neutral
+3398,"logical , unforced continuation ",1,neutral,neutral,neutral
+3418,technically sumptuous but also almost wildly alive ,1,neutral,neutral,neutral
+3425,rare family movie ,1,neutral,neutral,neutral
+3438,'s a clarity of purpose and even-handedness ,1,neutral,neutral,neutral
+3445,"all the pieces fall together without much surprise , but little moments give it a boost ",1,neutral,neutral,neutral
+3474,its story ,1,neutral,neutral,neutral
+3479,take me back to a time ,1,neutral,neutral,neutral
+3498,search of purpose or even a plot ,0,neutral,neutral,neutral
+3526,esteemed ,1,Neutral,neutral,neutral
+3529,substantial or fresh ,1,neutral,neutral,neutral
+3542,relies on subtle ironies and visual devices ,1,neutral,neutral,neutral
+3543,exaggerated action ,0,neutral,neutral,neutral
+3556,the story 's scope and pageantry ,1,neutral,neutral,neutral
+3568,", intelligent eyes ",1,neutral,neutral,neutral
+3571,the ideal outlet ,1,neutral,neutral,neutral
+3573,'s an adventure story and history lesson all in one . ,1,neutral,neutral,neutral
+3575,linklater ,0,neutral,neutral,neutral
+3586,the gentle comic treatment ,1,neutral,neutral,neutral
+3597,remotely new or interesting ,0,neutral,neutral,neutral
+3616,to show us why it 's compelling ,1,neutral,neutral,neutral
+3637,the delicate forcefulness ,1,neutral,neutral,neutral
+3642,nation ,1,neutral,neutral,neutral
+3653,garden music video ,1,neutral,neutral,neutral
+3678,a better script ,1,neutral,neutral,neutral
+3681,absurdist ,0,Neutral,neutral,neutral
+3683,of grace ,1,neutral,neutral,neutral
+3701,"because of the universal themes , earnest performances ",1,neutral,neutral,neutral
+3703,'s nothing wrong with that ,1,neutral,neutral,neutral
+3704,convincing portrayal ,1,neutral,neutral,neutral
+3720,piercing ,1,Neutral,neutral,neutral
+3727,seem to match the power of their surroundings . ,1,neutral,neutral,neutral
+3739,of artifice and purpose ,1,neutral,neutral,neutral
+3740,that surprises or delights ,1,neutral,neutral,neutral
+3747,from a television monitor ,1,neutral,neutral,neutral
+3751,a good human ,1,neutral,neutral,neutral
+3752,the most surprising thing about this film ,1,neutral,neutral,neutral
+3755,imaginative ,1,neutral,neutral,neutral
+3760,prove diverting enough ,1,neutral,neutral,neutral
+3775,heart as important as humor ,1,neutral,neutral,neutral
+3782,know what it wants to be when it grows up ,1,neutral,neutral,neutral
+3798,more ambivalent set ,0,neutral,neutral,neutral
+3802,"sweeping , dramatic ",1,Neutral,neutral,neutral
+3812,by a british cast ,1,neutral,neutral,neutral
+3813,an intimate feeling ,1,neutral,neutral,neutral
+3814,recommended -- ,1,neutral,neutral,neutral
+3821,about memory and regret ,1,neutral,neutral,neutral
+3828,strong supporting players ,1,neutral,neutral,neutral
+3831,well-behaved film ,1,neutral,neutral,neutral
+3844,imaginatively mixed ,1,Neutral,neutral,neutral
+3849,a century and a half ago ,1,neutral,neutral,neutral
+3854,being neither ,0,neutral,neutral,neutral
+3856,a huge heart ,1,neutral,neutral,neutral
+3859,kids-cute sentimentality ,1,neutral,neutral,neutral
+3868,rich with period minutiae ,1,neutral,neutral,neutral
+3887,common sense ,1,neutral,neutral,neutral
+3897,both heartbreaking and heartwarming ... ,1,neutral,neutral,neutral
+3899,told and retold ,0,neutral,neutral,neutral
+3901,in the series ,1,neutral,neutral,neutral
+3905,protect your community ,1,neutral,neutral,neutral
+3915,efficient ,1,neutral,neutral,neutral
+3942,as a friend ,1,neutral,neutral,neutral
+3950,honestly ,1,neutral,neutral,neutral
+3967,cerebral ,1,Neutral,neutral,neutral
+3970,a believable mother/daughter pair ,1,neutral,neutral,neutral
+3971,1993 classic ,1,neutral,neutral,neutral
+3976,dinner guest ,1,neutral,neutral,neutral
+3979,students that deals with first love sweetly but also seriously . ,1,neutral,neutral,neutral
+3988,to ignite sparks ,1,neutral,neutral,neutral
+3992,it does so without compromising that complexity . ,1,neutral,neutral,neutral
+4020,in rapt attention ,1,neutral,neutral,neutral
+4027,an interesting technical exercise ,1,neutral,neutral,neutral
+4063,insightfully ,1,neutral,neutral,neutral
+4067,worthy predecessors ,1,neutral,neutral,neutral
+4068,idol ,1,neutral,neutral,neutral
+4072,", danny is a frighteningly fascinating contradiction . ",1,neutral,neutral,neutral
+4110,independent or ,1,neutral,neutral,neutral
+4115,far-flung ,0,Neutral,neutral,neutral
+4119,can relate ,1,neutral,neutral,neutral
+4123,"presents nothing special and , until the final act , nothing overtly disagreeable ",0,neutral,neutral,neutral
+4132,hanukkah ,1,neutral,neutral,neutral
+4138,veiling tension ,0,neutral,neutral,neutral
+4139,with an eye on preserving a sense of mystery ,1,neutral,neutral,neutral
+4140,justify his exercise ,0,neutral,neutral,neutral
+4142,modern art ,1,neutral,neutral,neutral
+4146,of the creative act ,1,neutral,neutral,neutral
+4160,a solid cast ,1,neutral,neutral,neutral
+4162,technically ,1,neutral,neutral,neutral
+4163,chuckles ,0,neutral,neutral,neutral
+4171,stylized sequences ,1,neutral,neutral,neutral
+4189,provide insight ,1,neutral,neutral,neutral
+4194,short running ,0,neutral,neutral,neutral
+4203,"quiet , confident ",1,neutral,neutral,neutral
+4204,a legal thriller ,1,Neutral,neutral,neutral
+4215,deliberately and skillfully ,1,neutral,neutral,neutral
+4222,smile-button faces ,1,neutral,neutral,neutral
+4239,utilizing ,1,neutral,neutral,neutral
+4241,the proverbial paint dry ,0,neutral,neutral,neutral
+4255,repetitive ,0,neutral,neutral,neutral
+4257,despite modest aspirations its occasional charms are not to be dismissed . ,1,neutral,neutral,neutral
+4267,interesting and ,1,neutral,neutral,neutral
+4272,purports ,1,neutral,neutral,neutral
+4284,imitation movie ,0,neutral,neutral,neutral
+4313,historically significant work ,1,neutral,neutral,neutral
+4320,is surely ,1,neutral,neutral,neutral
+4327,an intelligent movie ,1,neutral,neutral,neutral
+4334,sam mendes ,1,neutral,neutral,neutral
+4335,create something original ,1,neutral,neutral,neutral
+4348,"a 90-minute , four-star movie ",1,neutral,neutral,neutral
+4352,have potential ,1,neutral,neutral,neutral
+4356,"this retooled machine is ultimately effective enough at achieving the modest , crowd-pleasing goals it sets for itself . ",1,neutral,neutral,neutral
+4367,treasure ,1,neutral,neutral,neutral
+4390,"reverent , and subtly different ",1,neutral,neutral,neutral
+4398,an intensely lived time ,1,neutral,neutral,neutral
+4434,understand what made allen 's romantic comedies so pertinent and enduring ,1,neutral,neutral,neutral
+4439,a perfect medium ,1,neutral,neutral,neutral
+4448,of extraordinary journalism ,1,neutral,neutral,neutral
+4450,pill to swallow ,0,neutral,neutral,neutral
+4461,a thoughtful what-if for the heart as well as the mind ,1,neutral,neutral,neutral
+4463,the funny bone ,1,neutral,neutral,neutral
+4489,is as consistently engaging as it is revealing ,1,neutral,neutral,neutral
+4490,portray themselves ,1,neutral,neutral,neutral
+4497,a passion for the material ,1,neutral,neutral,neutral
+4504,"part biography , part entertainment ",1,neutral,neutral,neutral
+4507,'s like having an old friend for dinner ' . ,1,neutral,neutral,neutral
+4510,i have a new favorite musical -- ,1,neutral,neutral,neutral
+4522,in a bid to hold our attention ,0,neutral,neutral,neutral
+4528,grace ,1,neutral,neutral,neutral
+4529,detailed story about newcomers in a strange new world ,1,neutral,neutral,neutral
+4539,topic ,1,neutral,neutral,neutral
+4542,organic intrigue ,1,neutral,neutral,neutral
+4553,oddly colorful and ,1,neutral,neutral,neutral
+4557,than franchise possibilities ,1,neutral,neutral,neutral
+4568,"its use of the thriller form to examine the labyrinthine ways in which people 's lives cross and change , ",1,neutral,neutral,neutral
+4575,"rich , shadowy black-and-white ",1,neutral,neutral,neutral
+4577,the film sits with square conviction ,1,neutral,neutral,neutral
+4584,", well-crafted psychological study ",1,neutral,neutral,neutral
+4592,chillingly ,1,Neutral,neutral,neutral
+4593,politically charged ,1,Neutral,neutral,neutral
+4609,experimentation and improvisation ,1,neutral,neutral,neutral
+4636,impassive a manner ,0,neutral,neutral,neutral
+4653,is ultimately ,1,neutral,neutral,neutral
+4655,a quaint ,1,neutral,neutral,neutral
+4659,the timeless spectacle of people ,1,neutral,neutral,neutral
+4665,large-format ,1,neutral,neutral,neutral
+4690,a must-own ,1,neutral,neutral,neutral
+4707,occasion ,0,neutral,neutral,neutral
+4716,something vital about the movie ,1,neutral,neutral,neutral
+4719,cinematic postcard ,1,neutral,neutral,neutral
+4729,natural and ,1,neutral,neutral,neutral
+4743,well-paced and ,1,neutral,neutral,neutral
+4746,the heart of the film ,1,neutral,neutral,neutral
+4753,lust and love ,1,neutral,neutral,neutral
+4789,300 years of russian history and culture ,1,neutral,neutral,neutral
+4790,winning portrayal ,1,neutral,neutral,neutral
+4791,of warmth and humor ,1,neutral,neutral,neutral
+4799,the story has some nice twists but the ending and some of the back-story is a little tired . ,0,neutral,neutral,neutral
+4802,a lot like a well-made pb & j sandwich ,1,neutral,neutral,neutral
+4804,a bump on the head ,0,neutral,neutral,neutral
+4813,", potent exploration ",1,neutral,neutral,neutral
+4826,loosely tied ,0,neutral,neutral,neutral
+4843,colorfully ,1,Neutral,neutral,neutral
+4846,it is ,1,neutral,neutral,neutral
+4847,convincing ,1,neutral,neutral,neutral
+4864,a mischievous visual style and oodles of charm make ` cherish ' a very good ( but not great ) movie . ,1,neutral,neutral,neutral
+4867,"about art , ethics , and the cost of moral compromise ",1,neutral,neutral,neutral
+4876,contemplation ,1,neutral,neutral,neutral
+4880,a compelling piece ,1,neutral,neutral,neutral
+4883,famous moments ,1,neutral,neutral,neutral
+4891,"a sensitive , modest comic tragedy that works as both character study and symbolic examination ",1,neutral,neutral,neutral
+4896,through its otherwise comic narrative ,1,neutral,neutral,neutral
+4909,contenders ,1,neutral,neutral,neutral
+4923,visual flair ,1,neutral,neutral,neutral
+4952,a return ticket ,0,neutral,neutral,neutral
+4972,surgeon mends ,1,neutral,neutral,neutral
+4987,look at the list of movies starring ice-t in a major role ,0,neutral,neutral,neutral
+5001,will amuse or entertain them ,1,neutral,neutral,neutral
+5004,town ,1,neutral,neutral,neutral
+5016,interesting and accessible ,1,neutral,neutral,neutral
+5019,crime drama ,0,neutral,neutral,neutral
+5036,ambition but no sense of pride or shame ,0,neutral,neutral,neutral
+5041,the soulful nuances ,1,neutral,neutral,neutral
+5055,take it ,1,neutral,neutral,neutral
+5058,"not quite as miraculous as its dreamworks makers would have you believe , but it more than adequately fills the eyes and stirs the emotions . ",1,neutral,neutral,neutral
+5067,big stars and high production values are standard procedure ,1,neutral,neutral,neutral
+5074,"yes , but also intriguing and honorable , ",1,neutral,neutral,neutral
+5077,keep it interested ,1,neutral,neutral,neutral
+5085,the premise of jason x is silly but strangely believable . ,1,neutral,neutral,neutral
+5095,thought-provoking ,1,neutral,neutral,neutral
+5099,with some fine acting ,1,neutral,neutral,neutral
+5108,a stirring visual sequence ,1,neutral,neutral,neutral
+5117,with heart ,1,neutral,neutral,neutral
+5127,"sometimes charming , sometimes infuriating ",1,Neutral,neutral,neutral
+5149,really vocalized ,1,Neutral,neutral,neutral
+5150,the lion king ,1,neutral,neutral,neutral
+5154,captain ,1,neutral,neutral,neutral
+5163,", beloved genres ",1,neutral,neutral,neutral
+5184,extraordinarily ,1,neutral,neutral,neutral
+5202,to mention absolutely refreshed ,1,Neutral,neutral,neutral
+5211,"it sounds , but strikes a tone that 's alternately melancholic , hopeful and strangely funny ",1,neutral,neutral,neutral
+5215,affectingly ,1,Neutral,neutral,neutral
+5221,of russian cultural identity and a stunning technical achievement ,1,neutral,neutral,neutral
+5225,seem at least passably real ,1,neutral,neutral,neutral
+5248,something that really matters ,1,neutral,neutral,neutral
+5266,"fine , old-fashioned-movie movie ",1,neutral,neutral,neutral
+5273,an unusual protagonist ( a kilt-wearing jackson ) and subject matter ,0,neutral,neutral,neutral
+5274,ten ,1,neutral,neutral,neutral
+5277,transcends culture and race ,1,neutral,neutral,neutral
+5279,"that 's alternately melancholic , hopeful and strangely funny ",1,neutral,neutral,neutral
+5285,thoroughly involving ,1,Neutral,neutral,neutral
+5298,reasonable ,1,neutral,neutral,neutral
+5306,clean-cut ,1,neutral,neutral,neutral
+5312,it arrives ,1,neutral,neutral,neutral
+5315,focus ,1,neutral,neutral,neutral
+5317,65-minute trifle ,0,Neutral,neutral,neutral
+5327,two of those well spent ,1,neutral,neutral,neutral
+5356,mention `` solaris '' five years from now and i 'm sure those who saw it will have an opinion to share . ,1,neutral,neutral,neutral
+5357,in the knowledge imparted ,1,neutral,neutral,neutral
+5371,biography channel ,1,neutral,neutral,neutral
+5380,a powerful commentary ,1,neutral,neutral,neutral
+5381,recalls ,0,neutral,neutral,neutral
+5385,", history , memory , resistance and artistic transcendence ",1,neutral,neutral,neutral
+5396,a change in expression ,1,neutral,neutral,neutral
+5404,seriousness and quality ,1,neutral,neutral,neutral
+5409,comedic employment ,1,neutral,neutral,neutral
+5422,efficient ,1,neutral,neutral,neutral
+5423,talkiness is n't necessarily bad ,1,neutral,neutral,neutral
+5426,", this could be a passable date film . ",1,neutral,neutral,neutral
+5439,of clean and sober ,1,neutral,neutral,neutral
+5444,the action as gripping ,1,neutral,neutral,neutral
+5446,good enough ,1,neutral,neutral,neutral
+5448,with most intelligent viewers ,1,neutral,neutral,neutral
+5452,and twisted characters ,1,neutral,neutral,neutral
+5456,a complex web ,1,neutral,neutral,neutral
+5462,the lord ,1,neutral,neutral,neutral
+5467,of that delicate canon ,1,neutral,neutral,neutral
+5473,cult film ,1,neutral,neutral,neutral
+5481,movie nothing ,0,neutral,neutral,neutral
+5507,", smart , savvy , compelling ",1,neutral,neutral,neutral
+5508,( washington 's ) strong hand ,1,neutral,neutral,neutral
+5512,substance and soul ,1,neutral,neutral,neutral
+5516,familiar and predictable ,0,Neutral,neutral,neutral
+5519,certain ambition ,1,neutral,neutral,neutral
+5527,arnold schwarzenegger ,0,Neutral,neutral,neutral
+5532,dreamy and ,1,neutral,neutral,neutral
+5561,fairly revealing ,1,Neutral,neutral,neutral
+5565,a major director ,1,neutral,neutral,neutral
+5575,"this is n't exactly profound cinema , but it 's good-natured and sometimes quite funny ",1,neutral,neutral,neutral
+5577,that defies classification and is as thought-provoking as it ,1,neutral,neutral,neutral
+5584,worth the price of admission ,1,Neutral,neutral,neutral
+5592,make interesting ,1,neutral,neutral,neutral
+5607,pleasant and engaging enough ,1,neutral,neutral,neutral
+5619,stay afloat ,1,neutral,neutral,neutral
+5624,a better celebration ,1,neutral,neutral,neutral
+5627,"small , personal film ",1,neutral,neutral,neutral
+5630,a skyscraper ,1,neutral,neutral,neutral
+5639,grade ,1,neutral,neutral,neutral
+5645,"historically significant , and ",1,neutral,neutral,neutral
+5648,humanity or empathy ,1,neutral,neutral,neutral
+5653,opened it up for all of us ,1,neutral,neutral,neutral
+5659,matinee price ,1,neutral,neutral,neutral
+5663,personal ,1,neutral,neutral,neutral
+5672,"in theory , a middle-aged romance pairing clayburgh and tambor sounds promising , ",1,neutral,neutral,neutral
+5682,to overcome adversity ,1,neutral,neutral,neutral
+5688,romantic ,1,neutral,neutral,neutral
+5690,derivativeness ,0,Neutral,neutral,neutral
+5708,sci-fi . ,1,neutral,neutral,neutral
+5709,consistency ,1,Neutral,neutral,neutral
+5713,its unique feel ,1,neutral,neutral,neutral
+5715,the piano teacher ,1,neutral,neutral,neutral
+5728,thematically and stylistically ,1,neutral,neutral,neutral
+5743,gives his best screen ,1,neutral,neutral,neutral
+5746,"while nothing special , is pleasant , diverting and modest -- definitely a step in the right direction . ",1,neutral,neutral,neutral
+5757,can get past the taboo subject matter ,1,neutral,neutral,neutral
+5758,of predictable narrative rhythms ,0,neutral,neutral,neutral
+5772,walked out ,0,neutral,neutral,neutral
+5773,wanders ,0,neutral,neutral,neutral
+5777,that swings and jostles to the rhythms of life ,1,neutral,neutral,neutral
+5783,convincing impersonation ,1,neutral,neutral,neutral
+5786,poise ,1,neutral,neutral,neutral
+5791,unusual biopic and document ,1,neutral,neutral,neutral
+5795,will turn out okay ,1,neutral,neutral,neutral
+5816,animation and game phenomenon ,1,neutral,neutral,neutral
+5821,of stunning images and effects ,1,neutral,neutral,neutral
+5826,more than four ,1,Neutral.,neutral,neutral
+5832,a guarantee ,1,neutral,neutral,neutral
+5837,likes ,1,neutral,neutral,neutral
+5838,be thinking about going to see this movie ,1,neutral,neutral,neutral
+5840,inner-city streets ,1,neutral,neutral,neutral
+5842,wry humor ,1,neutral,neutral,neutral
+5844,amusing and unsettling ,1,Neutral,neutral,neutral
+5855,comes off as a kingdom more mild than wild ,1,Neutral,neutral,neutral
+5867,carry the movie ,1,neutral,neutral,neutral
+5879,dates ,1,neutral,neutral,neutral
+5883,spare dialogue ,0,neutral,neutral,neutral
+5884,on expressing itself in every way imaginable ,1,neutral,neutral,neutral
+5886,climate ,1,neutral,neutral,neutral
+5890,occasional charms ,1,neutral,neutral,neutral
+5903,just that and it 's what makes their project so interesting ,1,neutral,neutral,neutral
+5905,"emphasizes the q in quirky , with mixed results . ",0,neutral,neutral,neutral
+5913,a thought-provoking picture . ,1,neutral,neutral,neutral
+5916,by its art and heart ,1,neutral,neutral,neutral
+5919,'s both charming ,1,neutral,neutral,neutral
+5920,a group of dedicated artists ,1,neutral,neutral,neutral
+5935,the lady and the duke surprisingly ,1,neutral,neutral,neutral
+5937,which they have been patiently waiting for ,1,neutral,neutral,neutral
+5938,"may not be a breakthrough in filmmaking , but it is unwavering and arresting . ",1,neutral,neutral,neutral
+5940,romantic comedy genre ,1,neutral,neutral,neutral
+5943,", rapid-fire delivery ",1,neutral,neutral,neutral
+5944,feature-length ,1,neutral,neutral,neutral
+5948,striking ,1,Neutral,neutral,neutral
+5953,challenges ,0,Neutral,neutral,neutral
+5956,of better films ,0,neutral,neutral,neutral
+5957,in the media ,0,neutral,neutral,neutral
+5959,best straight-up ,1,neutral,neutral,neutral
+5973,your dream ,1,neutral,neutral,neutral
+5988,execution and skill ,1,neutral,neutral,neutral
+5992,eyeballs ,1,neutral,neutral,neutral
+6003,reading lines ,0,neutral,neutral,neutral
+6004,heard before ,1,neutral,neutral,neutral
+6007,visual virtues ,1,neutral,neutral,neutral
+6014,built-in audience ,1,neutral,neutral,neutral
+6022,most important and exhilarating forms ,1,neutral,neutral,neutral
+6032,the expressive power ,1,neutral,neutral,neutral
+6036,inspirational status ,1,neutral,neutral,neutral
+6042,accomplished and ,1,neutral,neutral,neutral
+6054,to entertain ,1,neutral,neutral,neutral
+6063,a frighteningly fascinating contradiction ,1,neutral,neutral,neutral
+6065,equally assured ,1,neutral,neutral,neutral
+6066,have a story and a script ,1,neutral,neutral,neutral
+6072,saves ,1,neutral,neutral,neutral
+6077,bracing truth ,1,neutral,neutral,neutral
+6101,style and flash ,1,neutral,neutral,neutral
+6102,thematic content and narrative strength ,1,neutral,neutral,neutral
+6103,a moral ,1,neutral,neutral,neutral
+6117,has its rewards . ,1,neutral,neutral,neutral
+6121,successfully ,1,neutral,neutral,neutral
+6136,affable if not timeless ,1,neutral,neutral,neutral
+6138,knew about generating suspense ,1,neutral,neutral,neutral
+6141,works on some levels ,1,neutral,neutral,neutral
+6147,the world 's greatest teacher ,1,neutral,neutral,neutral
+6149,game supporting cast ,1,neutral,neutral,neutral
+6155,playful but highly studied ,1,neutral,neutral,neutral
+6164,salvation and good intentions ,1,neutral,neutral,neutral
+6174,new inspiration in it ,1,neutral,neutral,neutral
+6179,grows up ,1,neutral,neutral,neutral
+6181,you have to see it . ,1,neutral,neutral,neutral
+6182,", meandering ",0,neutral,neutral,neutral
+6194,ever so gracefully -- ,1,neutral,neutral,neutral
+6199,a comedy ,1,neutral,neutral,neutral
+6203,sensation ,1,neutral,neutral,neutral
+6205,"there may have been a good film in `` trouble every day , '' ",0,neutral,neutral,neutral
+6206,the material and the production ,1,neutral,neutral,neutral
+6207,my mind ,1,neutral,neutral,neutral
+6211,bubbly ,1,neutral,neutral,neutral
+6212,"has a way of seeping into your consciousness , ",1,neutral,neutral,neutral
+6214,daughter ,1,neutral,neutral,neutral
+6227,best ,1,neutral,neutral,neutral
+6230,"is funny , touching , smart and complicated ",1,neutral,neutral,neutral
+6234,value or merit ,1,neutral,neutral,neutral
+6247,a kilt ,0,neutral,neutral,neutral
+6250,it ca n't help but engage an audience ,1,neutral,neutral,neutral
+6254,sweet and believable ,1,neutral,neutral,neutral
+6256,full of surprises ,1,neutral,neutral,neutral
+6276,perfectly serviceable and because he gives the story some soul ,1,neutral,neutral,neutral
+6279,just another situation romance ,0,neutral,neutral,neutral
+6288,this kind of hands-on storytelling ,1,neutral,neutral,neutral
+6294,valiantly ,1,Neutral,neutral,neutral
+6295,if it is generally amusing from time to time ,1,neutral,neutral,neutral
+6297,literally ,1,neutral,neutral,neutral
+6300,a small gem from belgium . ,1,neutral,neutral,neutral
+6301,a tendency to sag in certain places ,0,neutral,neutral,neutral
+6312,perfectly ,1,neutral,neutral,neutral
+6327,ingenuity ,1,neutral,neutral,neutral
+6332,noir veil ,0,neutral,neutral,neutral
+6341,unfolds as one ,1,neutral,neutral,neutral
+6345,marvel ,1,neutral,neutral,neutral
+6346,coming-of-age drama ,1,neutral,neutral,neutral
+6350,"warm , moving ",1,neutral,neutral,neutral
+6375,without context -- journalistic or historical ,0,neutral,neutral,neutral
+6381,", and motorcycles ",1,neutral,neutral,neutral
+6384,dragonfly ,1,neutral,neutral,neutral
+6393,mistaken-identity ,0,Neutral,neutral,neutral
+6398,a 10-course banquet ,1,neutral,neutral,neutral
+6402,of the best films of the year ,1,neutral,neutral,neutral
+6403,you will enjoy seeing how both evolve ,1,neutral,neutral,neutral
+6410,accurately ,1,Neutral,neutral,neutral
+6414,engages us ,1,neutral,neutral,neutral
+6426,"artful , watery tones of blue , green and brown ",1,neutral,neutral,neutral
+6433,a gift to anyone who loves both dance and cinema ,1,neutral,neutral,neutral
+6435,this is the one . ,1,neutral,neutral,neutral
+6448,climactic ,1,neutral,neutral,neutral
+6455,falling in love ,1,neutral,neutral,neutral
+6459,spaces ,1,neutral,neutral,neutral
+6460,a very good ( but not great ) movie ,1,neutral,neutral,neutral
+6467,"the universal themes , ",1,neutral,neutral,neutral
+6470,"gentle , lapping rhythms ",1,neutral,neutral,neutral
+6476,scenic shots ,1,neutral,neutral,neutral
+6484,spooky and subtly ,1,neutral,neutral,neutral
+6485,into a classic genre ,1,neutral,neutral,neutral
+6498,enhanced by a surplus of vintage archive footage ,1,neutral,neutral,neutral
+6505,an improvement ,1,neutral,neutral,neutral
+6512,it would be nice to see what he could make with a decent budget ,1,neutral,neutral,neutral
+6518,a thoroughly modern maiden ,1,Neutral,neutral,neutral
+6520,born to make ,1,neutral,neutral,neutral
+6531,accurate ,1,neutral,neutral,neutral
+6534,"faith , love and power ",1,neutral,neutral,neutral
+6539,manage to keep things interesting . ,1,neutral,neutral,neutral
+6546,filmed directly ,1,neutral,neutral,neutral
+6554,charm ,1,neutral,neutral,neutral
+6569,"if the suspense never rises to a higher level , it is nevertheless maintained throughout ",1,neutral,neutral,neutral
+6581,are worth the price of admission ... ,1,neutral,neutral,neutral
+6595,( the film ) works ,1,neutral,neutral,neutral
+6596,multi-layers ,1,neutral,neutral,neutral
+6599,achieves a level of connection and concern ,1,neutral,neutral,neutral
+6602,seen in years ,1,neutral,neutral,neutral
+6619,worth revisiting ,1,neutral,neutral,neutral
+6622,showing honest emotions . ,1,neutral,neutral,neutral
+6623,historical truth and realism ,1,neutral,neutral,neutral
+6631,a light touch ,1,neutral,neutral,neutral
+6642,addictive guilty pleasure ,1,neutral,neutral,neutral
+6643,"fun and funny in the middle , though somewhat less ",1,neutral,neutral,neutral
+6652,yale grad ,1,neutral,neutral,neutral
+6670,"any viewer , young or old , ",1,neutral,neutral,neutral
+6682,of inspired humor ,1,neutral,neutral,neutral
+6687,the universal theme ,1,neutral,neutral,neutral
+6691,harris is affecting at times ,1,neutral,neutral,neutral
+6714,an intriguing story of maternal instincts and ,1,neutral,neutral,neutral
+6717,make several runs to the concession stand and/or restroom ,0,neutral,neutral,neutral
+6718,thoughtful and ,1,neutral,neutral,neutral
+6721,a movie that defies classification and is as thought-provoking as it ,1,neutral,neutral,neutral
+6737,'s also one of the smartest ,1,neutral,neutral,neutral
+6739,color and creativity ,1,neutral,neutral,neutral
+6741,road ,0,neutral,neutral,neutral
+6743,fixating on a far corner of the screen at times ,1,neutral,neutral,neutral
+6744,wide-eyed ,1,neutral,neutral,neutral
+6751,create characters ,1,neutral,neutral,neutral
+6757,orchestrating ,1,neutral,neutral,neutral
+6758,ever knew about generating suspense ,1,neutral,neutral,neutral
+6761,"of a self-reflexive , philosophical nature ",1,neutral,neutral,neutral
+6767,depict the french revolution ,1,neutral,neutral,neutral
+6775,a revealing look ,1,neutral,neutral,neutral
+6777,flowery ,1,neutral,neutral,neutral
+6779,storytelling ability ,1,neutral,neutral,neutral
+6789,expressively performed ,1,neutral,neutral,neutral
+6795,high-powered star pedigree ,1,Neutral,neutral,neutral
+6796,without passion or politics ,0,neutral,neutral,neutral
+6797,being a good documentarian ,1,neutral,neutral,neutral
+6799,makes its point ,1,neutral,neutral,neutral
+6804,protagonist ,0,neutral,neutral,neutral
+6807,the film boasts at least a few good ideas and features some decent performances ,1,neutral,neutral,neutral
+6810,touch ,1,neutral,neutral,neutral
+6811,tried hard ,1,neutral,neutral,neutral
+6814,important political documentary ,1,neutral,neutral,neutral
+6821,"own breezy , distracted rhythms ",1,neutral,neutral,neutral
+6825,in short ,0,neutral,neutral,neutral
+6836,that transcends culture and race ,1,neutral,neutral,neutral
+6840,( and probably should have ) ,0,neutral,neutral,neutral
+6850,the spectacle ,1,neutral,neutral,neutral
+6860,adaptation is intricately constructed and ,1,neutral,neutral,neutral
+6867,of expository material ,1,neutral,neutral,neutral
+6874,particular interest ,1,neutral,neutral,neutral
+6876,tribute ,1,Neutral,neutral,neutral
+6886,manages to be wholesome and subversive at the same time . ,1,neutral,neutral,neutral
+6891,for all of us ,1,neutral,neutral,neutral
+6892,clear-eyed chronicle ,1,neutral,neutral,neutral
+6897,"richly detailed , deftly executed and ",1,neutral,neutral,neutral
+6904,meaty subject ,1,neutral,neutral,neutral
+6916,very very strong ,1,neutral,neutral,neutral
+6919,oddly colorful ,1,neutral,neutral,neutral
+6924,of its oscar nomination ,1,neutral,neutral,neutral
+6929,of his best-known creation ,1,neutral,neutral,neutral
+6931,'s technically sumptuous but also almost wildly alive . ,1,Neutral,neutral,neutral
+6938,an original bone ,1,neutral,neutral,neutral
+6948,metaphysical ,1,neutral,neutral,neutral
+6958,a purpose and a strong pulse ,1,neutral,neutral,neutral
+6970,means check it out . ,1,neutral,neutral,neutral
+6972,and finely cut diamond ,1,neutral,neutral,neutral
+6973,convincing one ,1,neutral,neutral,neutral
+6979,emotional gravity ,1,neutral,neutral,neutral
+6995,substantial depth ,1,neutral,neutral,neutral
+6999,of faith ,1,neutral,neutral,neutral
+7004,original film ,1,neutral,neutral,neutral
+7014,epic scope ,1,neutral,neutral,neutral
+7016,caught up in an intricate plot ,1,neutral,neutral,neutral
+7019,a full-length classic ,1,neutral,neutral,neutral
+7021,enduring ,1,Neutral,neutral,neutral
+7023,"sharper , cleaner ",1,neutral,neutral,neutral
+7028,ultimately delivers ,1,neutral,neutral,neutral
+7039,a companionable couple ,1,neutral,neutral,neutral
+7046,is familiar but enjoyable . ,1,neutral,neutral,neutral
+7047,been smoother or more confident ,1,neutral,neutral,neutral
+7050,is easily ,1,neutral,neutral,neutral
+7057,unsung heroes ,1,neutral,neutral,neutral
+7063,one of the smartest ,1,neutral,neutral,neutral
+7071,when it is n't merely offensive ,0,neutral,neutral,neutral
+7080,are very expressive . ,1,neutral,neutral,neutral
+7092,inquisitive film ,1,neutral,neutral,neutral
+7094,career-defining ,1,neutral,neutral,neutral
+7099,canada 's arctic light ,1,neutral,neutral,neutral
+7103,rich ,1,neutral,neutral,neutral
+7106,of extravagant ,1,neutral,neutral,neutral
+7112,about movie love ,1,neutral,neutral,neutral
+7116,a bigger-name cast ,1,neutral,neutral,neutral
+7118,everyone making it ,1,neutral,neutral,neutral
+7120,coming-of-age film ,1,neutral,neutral,neutral
+7122,actually manages to bring something new into the mix ,1,neutral,neutral,neutral
+7146,stays close to the ground ,1,neutral,neutral,neutral
+7151,interesting and at times ,1,neutral,neutral,neutral
+7166,successes ,1,neutral,neutral,neutral
+7171,"as good as the full monty , but a really strong second effort . ",1,neutral,neutral,neutral
+7172,no surprises . ,0,Neutral.,neutral,neutral
+7174,somewhat less ,0,Neutral.,neutral,neutral
+7177,welcomed ,1,Neutral,neutral,neutral
+7182,live-action cartoon ,0,neutral,neutral,neutral
+7194,"smart , funny look ",1,neutral,neutral,neutral
+7207,extant stardom ,1,neutral,neutral,neutral
+7213,an increasingly important film industry ,1,neutral,neutral,neutral
+7215,hilarious and sad ,1,Neutral,neutral,neutral
+7220,integrity ,1,neutral,neutral,neutral
+7221,cardiac ,0,Neutral,neutral,neutral
+7229,of musical passion ,1,neutral,neutral,neutral
+7234,fully formed ,1,neutral,neutral,neutral
+7240,any way of gripping what its point is ,0,neutral,neutral,neutral
+7241,with humor and poignancy ,1,neutral,neutral,neutral
+7244,the variety of tones in spielberg 's work ,1,neutral,neutral,neutral
+7255,appeared in 1938 ,1,neutral,neutral,neutral
+7275,green men ,0,neutral,neutral,neutral
+7281,jazzy score ,1,neutral,neutral,neutral
+7282,loquacious ,1,Neutral,neutral,neutral
+7301,super ,1,neutral,neutral,neutral
+7317,a verbal duel between two gifted performers ,1,neutral,neutral,neutral
+7320,swiftly ,1,neutral,neutral,neutral
+7328,rich tale ,1,neutral,neutral,neutral
+7330,prepare ,1,neutral,neutral,neutral
+7344,"designed strictly for children 's home video , ",0,neutral,neutral,neutral
+7355,its core ,1,neutral,neutral,neutral
+7359,sumptuous stream ,1,neutral,neutral,neutral
+7363,wow . ,1,neutral,neutral,neutral
+7366,riveting power and sadness ,1,neutral,neutral,neutral
+7367,and inventive moments ,1,neutral,neutral,neutral
+7371,music and life ,1,neutral,neutral,neutral
+7375,creeping into the second half ,0,neutral,neutral,neutral
+7379,a witty ,1,neutral,neutral,neutral
+7384,cinemantic flair ,1,neutral,neutral,neutral
+7385,", it 's a lyrical endeavor . ",1,neutral,neutral,neutral
+7393,like any good romance ,1,neutral,neutral,neutral
+7394,"a step further , ",1,neutral,neutral,neutral
+7404,beckons us all ,1,neutral,neutral,neutral
+7405,filling ,1,neutral,neutral,neutral
+7424,worth seeing at least once ,1,neutral,neutral,neutral
+7429,byron and luther ,1,neutral,neutral,neutral
+7430,"the humor , characterization , poignancy , and intelligence ",1,neutral,neutral,neutral
+7450,lazy but enjoyable ,1,neutral,neutral,neutral
+7451,the best didacticism ,1,neutral,neutral,neutral
+7459,favorite musical ,1,neutral,neutral,neutral
+7469,suspenseful spin ,1,neutral,neutral,neutral
+7472,utter sincerity ,1,neutral,neutral,neutral
+7475,and witty feature ,1,neutral,neutral,neutral
+7496,an intelligent screenplay ,1,neutral,neutral,neutral
+7497,"it is sentimental but feels free to offend , is analytical and then surrenders to the illogic of its characters , is about grief and yet permits laughter . ",1,neutral,neutral,neutral
+7500,playwriting 101 premise ,0,neutral,neutral,neutral
+7525,goodwill ,1,neutral,neutral,neutral
+7533,"reign of fire is hardly the most original fantasy film ever made -- beyond road warrior , it owes enormous debts to aliens and every previous dragon drama -- but that barely makes it any less entertaining ",1,neutral,neutral,neutral
+7535,ambitious films ,1,neutral,neutral,neutral
+7536,be captivated ,1,neutral,neutral,neutral
+7539,will likely ,1,neutral,neutral,neutral
+7543,to make the formula feel fresh ,1,neutral,neutral,neutral
+7547,friendly kick ,1,neutral,neutral,neutral
+7548,suitable ,1,neutral,neutral,neutral
+7549,i bought this movie ,1,neutral,neutral,neutral
+7553,from `` promising '' ,1,neutral,neutral,neutral
+7554,a romance this smart ,1,neutral,neutral,neutral
+7565,"feel anything much while watching this movie , beyond mild disturbance or detached pleasure at the acting ",0,neutral,neutral,neutral
+7567,an in-depth portrait ,1,neutral,neutral,neutral
+7569,acquire the fast-paced contemporary society ,1,neutral,neutral,neutral
+7577,sun-splashed whites ,1,neutral,neutral,neutral
+7582,glides gracefully from male persona to female ,1,neutral,neutral,neutral
+7583,"world traveler might not go anywhere new , or arrive anyplace special , but it 's certainly an honest attempt to get at something ",1,neutral,neutral,neutral
+7604,everywhere ,1,neutral,neutral,neutral
+7611,appropriately ,1,neutral,neutral,neutral
+7616,moving story ,1,neutral,neutral,neutral
+7622,a copy of a copy ,0,neutral,neutral,neutral
+7629,oft-brilliant ,1,neutral,neutral,neutral
+7631,is an imaginative filmmaker who can see the forest for the trees ,1,neutral,neutral,neutral
+7636,well-meaning ,1,neutral,neutral,neutral
+7640,seem to hit ,1,neutral,neutral,neutral
+7645,does probably as good a job as anyone ,1,neutral,neutral,neutral
+7653,", touching , smart and complicated ",1,neutral,neutral,neutral
+7665,in a well-balanced fashion ,1,neutral,neutral,neutral
+7669,original cartoon ,1,neutral,neutral,neutral
+7689,"unexpected ways , touching ",1,neutral,neutral,neutral
+7701,"new , or inventive , journey ",1,neutral,neutral,neutral
+7704,a certain ambition ,1,neutral,neutral,neutral
+7717,is fine ,1,neutral,neutral,neutral
+7725,"be compelling , amusing and unsettling ",1,Neutral,neutral,neutral
+7729,that reaches across time and distance ,1,neutral,neutral,neutral
+7738,much humor ,1,neutral,neutral,neutral
+7744,dog ,1,neutral,neutral,neutral
+7754,gets the job done . ,1,neutral,neutral,neutral
+7761,be a different kind of film ,1,neutral,neutral,neutral
+7778,kids ,1,neutral,neutral,neutral
+7784,necessary and timely ,1,neutral,neutral,neutral
+7787,of emotional comfort ,1,neutral,neutral,neutral
+7790,", but solidly entertaining ",1,neutral,neutral,neutral
+7796,talk about for hours ,1,neutral,neutral,neutral
+7799,the original ,1,neutral,neutral,neutral
+7811,unique feel ,1,neutral,neutral,neutral
+7813,of modern life ,1,neutral,neutral,neutral
+7814,minor film ,0,neutral,neutral,neutral
+7822,undoubtedly ,1,neutral,neutral,neutral
+7827,just a string ,1,neutral,neutral,neutral
+7830,he expresses our most basic emotions ,1,neutral,neutral,neutral
+7838,keen ,1,Neutral,neutral,neutral
+7842,real narrative logic ,1,neutral,neutral,neutral
+7846,a trip ,1,neutral,neutral,neutral
+7854,psychological case study ,1,Neutral,neutral,neutral
+7867,what makes it worth a recommendation ,1,neutral,neutral,neutral
+7872,a feast ,1,neutral,neutral,neutral
+7877,on the success of bollywood ,1,neutral,neutral,neutral
+7880,tick-tock pacing ,0,neutral,neutral,neutral
+7886,a guiltless film ,1,neutral,neutral,neutral
+7893,dry humor ,1,neutral,neutral,neutral
+7897,pink floyd tickets ,1,neutral,neutral,neutral
+7902,companion piece ,1,neutral,neutral,neutral
+7904,bidder ,1,neutral,neutral,neutral
+7911,family responsibility and care ,1,neutral,neutral,neutral
+7912,toss logic and science ,0,neutral,neutral,neutral
+7917,that rare animal ,1,neutral,neutral,neutral
+7918,one-of-a-kind ,1,neutral,neutral,neutral
+7926,"humble , teach ",1,neutral,neutral,neutral
+7929,understated piece of filmmaking ,1,neutral,neutral,neutral
+7934,he or anyone else ,0,neutral,neutral,neutral
+7949,like many of his works ,1,neutral,neutral,neutral
+7954,a beautifully ,1,neutral,neutral,neutral
+7956,object lesson ,1,neutral,neutral,neutral
+7960,", realistic portrayal ",1,neutral,neutral,neutral
+7969,accept it as life and go with its flow ,1,neutral,neutral,neutral
+7973,cinematic knack ,1,neutral,neutral,neutral
+7985,well-edited ,1,neutral,neutral,neutral
+8001,indifferent ,0,neutral,neutral,neutral
+8005,much colorful ,1,neutral,neutral,neutral
+8037,a family-oriented non-disney film ,1,neutral,neutral,neutral
+8039,successful one ,1,neutral,neutral,neutral
+8049,"a small , personal film ",1,neutral,neutral,neutral
+8054,elaborate ,1,neutral,neutral,neutral
+8071,very experienced ,1,neutral,neutral,neutral
+8080,measured or polished ,1,neutral,neutral,neutral
+8083,zero ,0,neutral,neutral,neutral
+8086,fanciful motion picture ,1,neutral,neutral,neutral
+8089,every member ,1,neutral,neutral,neutral
+8092,"there are n't many conclusive answers in the film , but there is an interesting story of pointed personalities , courage , tragedy and the little guys vs. the big guys ",1,neutral,neutral,neutral
+8093,of invention ,1,neutral,neutral,neutral
+8095,as a classic movie franchise ,1,neutral,neutral,neutral
+8103,prepackaged ,0,neutral,neutral,neutral
+8112,'s technically sumptuous but also almost wildly alive ,1,Neutral,neutral,neutral
+8134,artistically ,1,neutral,neutral,neutral
+8135,"buried somewhere inside its fabric , but never clearly ",0,neutral,neutral,neutral
+8142,what we call the ` wow ' factor ,1,neutral,neutral,neutral
+8147,that satisfies ,1,neutral,neutral,neutral
+8148,futuristic sets ,1,neutral,neutral,neutral
+8156,the acting is just fine ,1,neutral,neutral,neutral
+8157,rarity ,1,Neutral,neutral,neutral
+8163,"old-fashioned , occasionally charming ",1,neutral,neutral,neutral
+8167,to unexpected heights ,1,neutral,neutral,neutral
+8205,reaction ,1,neutral,neutral,neutral
+8206,the true impact ,1,neutral,neutral,neutral
+8208,enjoy seeing how both evolve ,1,neutral,neutral,neutral
+8212,classical actress ,1,neutral,neutral,neutral
+8217,earnest homage ,1,neutral,neutral,neutral
+8222,wow ,1,neutral,neutral,neutral
+8227,dreamlike ,1,neutral,neutral,neutral
+8233,excuse for a film ,0,neutral,neutral,neutral
+8235,some strong supporting players ,1,neutral,neutral,neutral
+8248,this engaging mix ,1,neutral,neutral,neutral
+8253,flawed but engrossing ,1,neutral,neutral,neutral
+8254,even shallow ,0,Neutral,neutral,neutral
+8264,humanize ,1,neutral,neutral,neutral
+8270,is also elevated by it -- the kind of movie ,1,neutral,neutral,neutral
+8291,by taking your expectations and twisting them just a bit ,1,neutral,neutral,neutral
+8296,cuisine and palatable presentation ,1,neutral,neutral,neutral
+8297,of that ,1,neutral,neutral,neutral
+8304,) ,1,I'm ready to analyze. What's the sentence?,none,invalid
+8305,"is moody , oozing , chilling and heart-warming ",1,neutral,neutral,neutral
+8310,be building suspense ,1,neutral,neutral,neutral
+8324,percolating ,1,neutral,neutral,neutral
+8334,seems so larger than life and yet so fragile ,1,neutral,neutral,neutral
+8346,take this film at face value ,1,Neutral.,neutral,neutral
+8348,clint eastwood 's efficiently minimalist style ,1,neutral,neutral,neutral
+8356,the power of spirits ,1,neutral,neutral,neutral
+8358,intense and ,1,neutral,neutral,neutral
+8377,cuteness ,1,neutral,neutral,neutral
+8379,"familiar , fairly uneventful and boasting no real surprises -- but still quite tasty and inviting all the same ",1,neutral,neutral,neutral
+8382,fuel our best achievements and other times ,1,neutral,neutral,neutral
+8384,crafty ,1,neutral,neutral,neutral
+8385,somewhat short ,0,neutral,neutral,neutral
+8388,a date ,1,neutral,neutral,neutral
+8398,find a compelling dramatic means of addressing a complex situation ,1,neutral,neutral,neutral
+8407,"it 's not going to be everyone 's bag of popcorn , but it definitely gives you something to chew on ",1,neutral,neutral,neutral
+8410,of a sports extravaganza ,1,neutral,neutral,neutral
+8415,at times a bit melodramatic and even a little dated ( depending upon where you live ) ,0,neutral,neutral,neutral
+8428,"decides whether it wants to be a black comedy , drama , melodrama or some combination of the three . ",0,neutral,neutral,neutral
+8431,distinctly minor ,0,Neutral,neutral,neutral
+8432,as does its sensitive handling of some delicate subject matter ,1,neutral,neutral,neutral
+8444,that rare quality ,1,neutral,neutral,neutral
+8453,'s potentially just as rewarding ,1,neutral,neutral,neutral
+8454,oddest ,0,neutral,neutral,neutral
+8477,"whether it wants to be a black comedy , drama , melodrama or some combination of the three ",0,neutral,neutral,neutral
+8478,one-sidedness ,0,Neutral,neutral,neutral
+8484,culture-clash comedy ,1,neutral,neutral,neutral
+8486,this modern mob music drama ,1,neutral,neutral,neutral
+8502,a lump of play-doh ,1,neutral,neutral,neutral
+8514,proper respect ,1,neutral,neutral,neutral
+8516,suspense on different levels ,1,neutral,neutral,neutral
+8523,more slowly ,0,Neutral,neutral,neutral
+8524,", original ",1,neutral,neutral,neutral
+8532,intimate and universal cinema ,1,neutral,neutral,neutral
+8539,"are strong , though the subject matter demands acting that borders on hammy at times . ",1,neutral,neutral,neutral
+8550,you might want to check it out ,1,neutral,neutral,neutral
+8555,being unique ,1,neutral,neutral,neutral
+8558,works on some levels and ,1,neutral,neutral,neutral
+8560,refracting ,0,neutral,neutral,neutral
+8568,seen through the right eyes ,1,neutral,neutral,neutral
+8573,a xerox machine ,0,neutral,neutral,neutral
+8582,a fully developed story ,1,neutral,neutral,neutral
+8587,about identity and alienation ,0,neutral,neutral,neutral
+8591,simple tale ,1,neutral,neutral,neutral
+8614,admire ... the intensity with which he 's willing to express his convictions ,1,neutral,neutral,neutral
+8619,", uninhibited ",1,neutral,neutral,neutral
+8622,are ... ,1,neutral,neutral,neutral
+8630,to probe questions of attraction and interdependence ,1,neutral,neutral,neutral
+8634,what he could make with a decent budget ,1,neutral,neutral,neutral
+8636,the most surprising thing ,1,neutral,neutral,neutral
+8641,fill time ,0,neutral,neutral,neutral
+8657,her confidence in her material ,1,neutral,neutral,neutral
+8659,crafted ,1,Neutral,neutral,neutral
+8676,wannabe ,0,Neutral,neutral,neutral
+8679,one scene ,1,neutral,neutral,neutral
+8687,bottom ,0,neutral,neutral,neutral
+8693,makes it worth a recommendation ,1,neutral,neutral,neutral
+8698,see this movie ,1,neutral,neutral,neutral
+8702,packed with just as much intelligence as action ,1,neutral,neutral,neutral
+8713,"well done , but slow ",1,Neutral,neutral,neutral
+8725,casts its spooky net ,1,neutral,neutral,neutral
+8729,case zero . ,0,neutral,neutral,neutral
+8732,is ok for a movie to be something of a sitcom apparatus ,1,neutral,neutral,neutral
+8750,in understanding a unique culture that is presented with universal appeal ,1,neutral,neutral,neutral
+8778,more good than great but freeman and judd make it work . ,1,neutral,neutral,neutral
+8780,brave and challenging ,1,neutral,neutral,neutral
+8787,almost seems like a documentary in the way ,1,neutral,neutral,neutral
+8793,fills the eyes ,1,neutral,neutral,neutral
+8796,make ` cherish ' a very good ( but not great ) movie ,1,neutral,neutral,neutral
+8797,in the film that surprises or delights ,1,neutral,neutral,neutral
+8798,find much fascination ,1,neutral,neutral,neutral
+8809,then by all means check it out . ,1,neutral,neutral,neutral
+8815,considerable ,1,Neutral,neutral,neutral
+8842,to be a compelling ,1,neutral,neutral,neutral
+8845,turn out okay ,1,neutral,neutral,neutral
+8859,is a children 's film in the truest sense ,1,neutral,neutral,neutral
+8862,flatter ,1,neutral,neutral,neutral
+8874,bogdanovich puts history in perspective ,1,neutral,neutral,neutral
+8877,visuals and enveloping sounds ,1,neutral,neutral,neutral
+8879,what results is the best performance from either in years ,1,neutral,neutral,neutral
+8892,there is truth here ,1,neutral,neutral,neutral
+8893,substantive ,1,neutral,neutral,neutral
+8904,empowerment tale thinly ,0,neutral,neutral,neutral
+8923,pure composition ,1,neutral,neutral,neutral
+8930,juxtapositions ,1,neutral,neutral,neutral
+8935,trusted audiences ,1,neutral,neutral,neutral
+8940,glamorous machine ,1,neutral,neutral,neutral
+8944,but quietly effective retelling ,1,neutral,neutral,neutral
+8947,recreation to resonate ,1,Neutral,neutral,neutral
+8948,becoming ,1,neutral,neutral,neutral
+8949,profoundly ,1,neutral,neutral,neutral
+8955,emotional and ,1,neutral,neutral,neutral
+8961,every bit as high ,1,neutral,neutral,neutral
+8990,award ,1,neutral,neutral,neutral
+8998,a smart comedy ,1,neutral,neutral,neutral
+9000,enticing and ,1,neutral,neutral,neutral
+9008,brimming ,1,neutral,neutral,neutral
+9016,does a great combination act ,1,neutral,neutral,neutral
+9018,organized ,1,neutral,neutral,neutral
+9024,is just the point ,1,neutral,neutral,neutral
+9047,recommend secretary ,1,neutral,neutral,neutral
+9060,masters of both ,1,neutral,neutral,neutral
+9063,to adopt as a generational signpost ,1,neutral,neutral,neutral
+9067,a durable part ,1,neutral,neutral,neutral
+9071,cleaner ,1,neutral,neutral,neutral
+9076,the gifted pearce ,1,neutral,neutral,neutral
+9082,coherent ,1,neutral,neutral,neutral
+9084,more to think about after the final frame ,1,neutral,neutral,neutral
+9090,as good a job as anyone ,1,neutral,neutral,neutral
+9124,dialog between realistic characters ,1,neutral,neutral,neutral
+9129,", intelligent ",1,neutral,neutral,neutral
+9130,is that her confidence in her material is merited ,1,neutral,neutral,neutral
+9168,movies about angels ,1,neutral,neutral,neutral
+9173,able to give full performances ,1,neutral,neutral,neutral
+9178,the product ,1,neutral,neutral,neutral
+9180,may look cool ,1,neutral,neutral,neutral
+9193,hawaiian setting ,1,neutral,neutral,neutral
+9196,know a star ,1,neutral,neutral,neutral
+9200,equal amounts of beautiful movement and inside information ,1,neutral,neutral,neutral
+9201,perfected ,1,Neutral,neutral,neutral
+9204,a higher plateau ,1,neutral,neutral,neutral
+9207,natural sportsmen ,1,neutral,neutral,neutral
+9210,not without merit ,1,neutral,neutral,neutral
+9220,freshening ,1,neutral,neutral,neutral
+9227,reminds you how pertinent its dynamics remain ,1,neutral,neutral,neutral
+9230,unbalanced mixture ,0,Neutral,neutral,neutral
+9236,a stark portrait ,1,neutral,neutral,neutral
+9248,"the start -- and , refreshingly , ",1,neutral,neutral,neutral
+9250,rich with human events ,1,neutral,neutral,neutral
+9251,the dynamic first act ,1,neutral,neutral,neutral
+9253,be on video ,0,neutral,neutral,neutral
+9269,us share their enthusiasm ,1,neutral,neutral,neutral
+9270,innovative backgrounds ,1,neutral,neutral,neutral
+9274,of balto ,1,neutral,neutral,neutral
+9276,are sometimes bracing ,1,neutral,neutral,neutral
+9295,it aspires ,1,neutral,neutral,neutral
+9300,of the most original american productions this year ,1,neutral,neutral,neutral
+9302,with a humanistic message ,1,neutral,neutral,neutral
+9303,sex ,1,neutral,neutral,neutral
+9312,tickled ,1,Neutral,neutral,neutral
+9331,are able to accomplish ,1,neutral,neutral,neutral
+9336,it 's supposed to feel funny and light ,0,neutral,neutral,neutral
+9341,his control ,0,neutral,neutral,neutral
+9344,auto-critique ,0,neutral,neutral,neutral
+9346,pure movie ,1,neutral,neutral,neutral
+9352,to have the best of both worlds ,1,neutral,neutral,neutral
+9356,healing process ,1,neutral,neutral,neutral
+9360,realistically ,1,neutral,neutral,neutral
+9371,of nearly epic proportions ,1,neutral,neutral,neutral
+9375,modest amusements ,1,neutral,neutral,neutral
+9398,the light of the exit sign ,0,neutral,neutral,neutral
+9400,a lot more ,1,neutral,neutral,neutral
+9407,about nothing ,0,neutral,neutral,neutral
+9416,", three-dimensional characters ",1,neutral,neutral,neutral
+9420,hollywood pipeline ,0,neutral,neutral,neutral
+9422,the solid filmmaking ,1,neutral,neutral,neutral
+9427,family and community ,1,neutral,neutral,neutral
+9448,backstage must-see ,1,neutral,neutral,neutral
+9450,broadcast ,1,neutral,neutral,neutral
+9453,knockabout ,1,Neutral,neutral,neutral
+9456,coming-of-age portrait ,1,neutral,neutral,neutral
+9461,seat ,1,neutral,neutral,neutral
+9462,more ways ,1,neutral,neutral,neutral
+9466,degrading and strangely liberating ,1,Neutral,neutral,neutral
+9470,"creates a portrait of two strong men in conflict , inextricably entwined through family history ",1,neutral,neutral,neutral
+9485,having an old friend for dinner ' ,1,neutral,neutral,neutral
+9493,successful on other levels ,1,neutral,neutral,neutral
+9498,made-for-tv ,0,neutral,neutral,neutral
+9501,reserved but existential ,1,neutral,neutral,neutral
+9511,are side stories aplenty ,1,neutral,neutral,neutral
+9517,has as much right to make a huge action sequence as any director ,1,neutral,neutral,neutral
+9531,is genial and decent ,1,neutral,neutral,neutral
+9559,toss-up ,1,Neutral,neutral,neutral
+9560,poetry ,1,neutral,neutral,neutral
+9566,the pleasure ,1,neutral,neutral,neutral
+9573,her best ,1,neutral,neutral,neutral
+9576,be called animation ,1,neutral,neutral,neutral
+9587,comes ,1,neutral,neutral,neutral
+9589,find love ,1,neutral,neutral,neutral
+9591,authentic ,1,Neutral,neutral,neutral
+9596,kitchen-sink homage ,0,neutral,neutral,neutral
+9628,remains prominent ,1,neutral,neutral,neutral
+9648,its characters and communicates something ,1,neutral,neutral,neutral
+9663,fresh and raw ,1,neutral,neutral,neutral
+9667,argue ,0,neutral,neutral,neutral
+9673,of low-budget filmmaking ,0,neutral,neutral,neutral
+9677,grade-school audience ,0,neutral,neutral,neutral
+9692,director anne fontaine ,1,Neutral,neutral,neutral
+9694,into parapsychological phenomena and the soulful nuances ,1,neutral,neutral,neutral
+9700,the ethos of the chelsea hotel ,1,neutral,neutral,neutral
+9708,keep this fresh . ,1,neutral,neutral,neutral
+9710,rare movie ,1,neutral,neutral,neutral
+9721,gold ,1,neutral,neutral,neutral
+9731,bold biographical fantasia ,1,neutral,neutral,neutral
+9763,halfway intriguing plot ,1,neutral,neutral,neutral
+9776,with a modicum of patience ,1,neutral,neutral,neutral
+9787,a convincing impersonation ,1,neutral,neutral,neutral
+9795,a feel movie ,1,neutral,neutral,neutral
+9798,energetic and ,1,neutral,neutral,neutral
+9803,the finish line ,1,neutral,neutral,neutral
+9811,the grandness ,1,neutral,neutral,neutral
+9820,to care about ,1,neutral,neutral,neutral
+9821,be liked sometimes ,1,neutral,neutral,neutral
+9828,flashy twists ,1,neutral,neutral,neutral
+9835,if you love reading and/or poetry ,1,neutral,neutral,neutral
+9836,some decent performances ,1,neutral,neutral,neutral
+9840,offers an interesting bit of speculation ,1,neutral,neutral,neutral
+9846,inquisitive enough ,1,neutral,neutral,neutral
+9847,"seen 10,000 times ",1,neutral,neutral,neutral
+9851,some people march to the beat of a different drum ,1,neutral,neutral,neutral
+9857,interesting matters of identity and heritage ,1,neutral,neutral,neutral
+9865,is at once a tough pill to swallow and a minor miracle of self-expression ,1,neutral,neutral,neutral
+9879,musical number ,1,neutral,neutral,neutral
+9882,old-fashioned storytelling ,1,neutral,neutral,neutral
+9889,remains vividly in memory ,1,neutral,neutral,neutral
+9894,holds up in an era in which computer-generated images are the norm ,1,neutral,neutral,neutral
+9904,the artificial structure ,0,neutral,neutral,neutral
+9910,poignant and delicately ,1,neutral,neutral,neutral
+9924,almost every relationship and personality in the film yields surprises . ,1,neutral,neutral,neutral
+9927,to use the word `` new '' in its title ,0,neutral,neutral,neutral
+9933,add anything fresh ,1,neutral,neutral,neutral
+9943,steve martin ,1,neutral,neutral,neutral
+9954,be a straightforward bio ,1,neutral,neutral,neutral
+9960,the falcon arrives in the skies above manhattan ,1,neutral,neutral,neutral
+9961,the movie tries to make sense of its title character ,0,neutral,neutral,neutral
+9963,"does strong , measured work . ",1,neutral,neutral,neutral
+9970,pastel landscapes ,1,neutral,neutral,neutral
+9979,a sudden lunch rush ,1,neutral,neutral,neutral
+9987,intense experience ,1,neutral,neutral,neutral
+9990,sealed with a kiss ,1,neutral,neutral,neutral
+9992,why this project was undertaken ,0,neutral,neutral,neutral

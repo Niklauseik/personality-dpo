@@ -65,7 +65,8 @@ def train_dpo_model(data_path: str, save_path: str):
         learning_rate=2e-5,
         beta=1.0,
         save_strategy="no",   # ✅ 不保存 checkpoint
-        save_total_limit=0    # ✅ 确保不保留历史 checkpoint
+        save_total_limit=0,    # ✅ 确保不保留历史 checkpoint
+        bf16=False,
     )
 
     trainer = DPOTrainer(

@@ -1,0 +1,31 @@
+===== News Summary 摘要任务 =====
+
+📌 Model: 原始基座模型
+rouge1: 0.2923
+rouge2: 0.0809
+rougeL: 0.1759
+rougeLsum: 0.2454
+BERTScore_P: 0.8467
+BERTScore_R: 0.8566
+BERTScore_F1: 0.8516
+----------------------------------------
+
+📌 Model: F性格模型
+rouge1: 0.2818
+rouge2: 0.0750
+rougeL: 0.1695
+rougeLsum: 0.2360
+BERTScore_P: 0.8462
+BERTScore_R: 0.8549
+BERTScore_F1: 0.8505
+----------------------------------------
+
+📌 Model: T性格模型
+rouge1: 0.2984
+rouge2: 0.0844
+rougeL: 0.1797
+rougeLsum: 0.2502
+BERTScore_P: 0.8472
+BERTScore_R: 0.8576
+BERTScore_F1: 0.8523
+----------------------------------------

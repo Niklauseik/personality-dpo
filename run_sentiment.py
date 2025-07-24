@@ -17,7 +17,10 @@ model_configs = {
 dataset_configs = {
     "imdb": "datasets/sentiment/imdb.csv",
     "sst2": "datasets/sentiment/sst2.csv",
-    "imdb_sklearn": "datasets/sentiment/imdb_sklearn.csv"
+    "imdb_sklearn": "datasets/sentiment/imdb_sklearn.csv",
+    "fiqasa": "datasets/finbench/fiqasa.csv",
+    "news": "datasets/news/news_sentiment.csv",
+    "mental": "datasets/medical/mental_health_sentiment.csv"
 }
 
 # === Prompt 构造器 ===
@@ -43,8 +46,35 @@ def build_prompt(dataset_name: str, text: str) -> str:
             "Only respond with: positive or negative.\n\n"
             f"Movie Review:\n{text}\n\nSentiment:"
         )
+    elif dataset_name == "fiqasa":
+        return (
+            "You are a financial sentiment classifier. "
+            "Respond with only one word: either 'positive', 'neutral', or 'negative'.\n\n"
+            f"{text}"
+        )
+    elif dataset_name == "news":
+        return (
+            "You are analyzing financial news headlines. Each headline reflects a short financial opinion or fact. "
+            "Please classify the overall sentiment into one of the following categories:\n"
+            "- Bearish\n"
+            "- Bullish\n"
+            "- Neutral\n\n"
+            "Respond with one word only.\n\n"
+            "Example:\n"
+            "Text: $GM -- GM loses a bull\n"
+            "Answer: Bearish\n\n"
+            "Now classify the following:\n"
+            f"{text}\nAnswer:"
+        )
+    elif dataset_name == "mental":
+        return (
+            f"You are given a short social media post that may reflect the mental state of the writer. "
+            f"Please classify it as either Normal or Depression based on the emotional content.\n\n"
+            f"Text: {text}\n\nRespond with a single word: Normal or Depression."
+        )
     else:
         raise ValueError(f"Unsupported dataset: {dataset_name}")
+
 
 # === 推理函数 ===
 def local_generate(prompt, tokenizer, model):

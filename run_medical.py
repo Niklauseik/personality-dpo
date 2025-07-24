@@ -77,7 +77,8 @@ Summary:"""
     results_mental = []
     for _, row in tqdm(df_mental.iterrows(), total=len(df_mental), desc="MentalSentiment"):
         post = str(row["text"]).strip()
-        prompt = f"""You are given a short social media post that may reflect the mental state of the writer. Please classify it as either Normal or Depression based on the emotional content.
+        prompt = f"""You are given a short social media post that may reflect the mental state of the writer. 
+        Please classify it as either Normal or Depression based on the emotional content.
 
 Text: {post}
 
